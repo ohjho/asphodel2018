@@ -10,43 +10,42 @@
   side: left
   dropdown:
   - title: "What is Crossfit"
-    url: "crossfitasphodel.com/what-is-crossfit"
+    url: "https://crossfitasphodel.com/what-is-crossfit"
   - title: "Try us out"
-    url: "crossfitasphodel.com/im-ready-to-give-it-a-try"
+    url: "https://crossfitasphodel.com/im-ready-to-give-it-a-try"
   - title: "Our Packages"
-    url: "crossfitasphodel.com/getting-started"
+    url: "https://crossfitasphodel.com/getting-started"
   - title: "Our Team"
-    url: "crossfitasphodel.com/coaches-trainers-and-team"
+    url: "https://crossfitasphodel.com/coaches-trainers-and-team"
   - title: "Drop-in"
-    url: "crossfitasphodel.com/drop-ins"
+    url: "https://crossfitasphodel.com/drop-ins"
   - title: "Contact"
-    url: "crossfitasphodel.com/contact-us"
-
-- title: "W.O.D."
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "WOD Archive"
-    url: "/blog/archive/"
-
-- title: Kids
-  url: "crossfitasphodel.com/kids"
-  side: left
-
-- title: Schedule
-  url: "https://clients.mindbodyonline.com/classic/home?studioid=491393"
-  side: left
-
-- title: Events
-  url: "crossfitasphodel.com/events"
-  side: left
-
+    url: "https://crossfitasphodel.com/contact-us"
 
 
 
 #
 #   Navigation to the right › side: right
 #
+- title: "W.O.D."
+  url: "/blog/"
+  side: right
+  dropdown:
+  - title: "WOD Archive"
+    url: "/blog/archive/"
+
+- title: Kids
+  url: "https://crossfitasphodel.com/kids"
+  side: right
+
+- title: Schedule
+  url: "https://clients.mindbodyonline.com/classic/home?studioid=491393"
+  side: right
+
+- title: Events
+  url: "https://crossfitasphodel.com/events"
+  side: right
+
 - title: "Info"
   url: "/info/"
   side: right
