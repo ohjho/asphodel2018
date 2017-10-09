@@ -2,10 +2,13 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {{ site.title }}</a></h1>
-    </li>
+	<h1>
+	  <a class="icon-tree show-for-small-only" href="{{ site.url }}{{ site.baseurl }}"> {{ site.title }}</a>
+	  <a class="logo hide-for-small-only" href="{{ site.url }}{{ site.baseurl }}"> <img src="https://placehold.it/100x40" alt="{{site.title}}" /></a>
+	</h1>
+      </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
     </ul>
     <section class="top-bar-section">
 {% comment %}

@@ -1,9 +1,6 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
-  url: "/"
-  side: left
 
 - title: "About"
   url: "#"
@@ -27,6 +24,7 @@
 #
 #   Navigation to the right › side: right
 #
+
 - title: "W.O.D."
   url: "/blog/"
   side: right
