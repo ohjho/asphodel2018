@@ -11,3 +11,7 @@ end
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 
+require 'rbconfig'
+if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
+   gem 'rb-fsevent', '<= 0.9.4'
+end
