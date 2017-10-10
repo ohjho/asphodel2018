@@ -296,7 +296,7 @@ body.video cite { color: #fff; }
 #subfooter {
     background: $subfooter-bg;
     color: $subfooter-color;
-    padding-top: 30px;
+    padding-top: 5px; //30px;
 }
 
 #subfooter-left ul.inline-list {
@@ -317,16 +317,18 @@ body.video cite { color: #fff; }
 }
 
 .social-icons {
-    margin-bottom: 10px !important;
+    margin-bottom: 5px !important; //10px !important;
 
 // Beware of SCSS-Syntax here
   li {
-    padding: 0 0 20px 0;
+//    padding: 0 0 20px 0;
+      padding: 0 0 0 0;
   }
   a {
-    font-size: rem-calc(23);
+//    font-size: rem-calc(23);
+    font-size: rem-calc(18);
     display: block;
-    width: 36px;
+    width: 28px; //36px;
     border-radius: 50%;
     color: $subfooter-bg;
     background: $subfooter-color;
