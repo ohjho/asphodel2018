@@ -8,7 +8,9 @@ layout: compress
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
+{% comment %}
 	{% include _social_network.html%}
+{% endcomment %}
 	{% include _navigation.html %}
 	{% endunless %}
 
