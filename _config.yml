@@ -167,6 +167,8 @@ defaults:
 # msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
 # msapplication_tilecolor:                "#fabb00"
 
+# check out https://realfavicongenerator.net for improvement and validation
+
 favicon-32x32:                          "favicons/favicon-32x32.png"
 touch-icon-192x192:                     "favicons/android-chrome-192x192.png"
 apple-touch-icon-180x180-precomposed:   "favicons/apple-touch-icon.png"
