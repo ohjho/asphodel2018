@@ -15,6 +15,7 @@
 ## Nice to Have
 - [ ] Rotating header images
 - [ ] social media icons topbar
+- [ ] small screen asphodel icon-font
 
 And what license is this project released under? [This one][2].
 
