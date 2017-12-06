@@ -1,3 +1,21 @@
+## Need to have
+- [ ] Favicon
+- [ ] Sticky TopBar with Mobile Hamburger menu
+- [ ] Full width header Image only
+- [ ] Asphodel Color Scheme
+- [ ] Social media icons footer bar
+- [ ] Getting started page
+- [ ] WOD: import workouts
+- [ ] Schedule Page with healcode
+- [ ] Kids page
+- [ ] Contact page
+- [ ] Keep Moving page
+- [ ] CF Kids and CF Journal icon in the footer
+
+## Nice to Have
+- [ ] Rotating header images
+- [ ] social media icons topbar
+
 ## You like and use this theme? Than support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
