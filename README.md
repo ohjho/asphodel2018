@@ -1,7 +1,7 @@
 ## Need to have
 - [ ] Favicon
-- [ ] Sticky TopBar with Mobile Hamburger menu
-- [ ] Full width header Image only
+- [x] Sticky TopBar with Mobile Hamburger menu
+- [x] Full width header Image only
 - [ ] Asphodel Color Scheme
 - [ ] Social media icons footer bar
 - [ ] Getting started page
@@ -16,6 +16,7 @@
 - [ ] Rotating header images
 - [ ] social media icons topbar
 - [ ] small screen asphodel icon-font
+- [ ] background image
 
 And what license is this project released under? [This one][2].
 
