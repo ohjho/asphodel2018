@@ -4,7 +4,7 @@
 - [x] Full width header Image only
 - [x] Asphodel Color Scheme
 - [ ] Social media icons footer bar
-- [ ] Updated landing page's three features
+- [X] Updated landing page's three features
 - [X] Getting started page
 - [ ] WOD: import workouts
 - [ ] Schedule Page with healcode

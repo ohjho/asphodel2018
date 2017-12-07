@@ -12,17 +12,19 @@ widget1:
   title: "Work out of the Day"
   url: '/blog/'
   image: showcase/whats_crossfit.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Anticipating the unknown? Check to see if today''s wod out now...'
 widget2:
-  title: "What is Crossfit?"
-  url: '/pages/what-is-crossfit'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "The Open is coming."
+  url: '/pages/what-is-crossfit' #<- link to schedule?
+  text: 'Have you been training?'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/skUxFsTzZ4Q/sddefault.jpg" width="302" height="200" alt=""/></a>'
+  # widget2's video call the video script below
+  # How to get YouTube thumbnails: https://gist.github.com/protrolium/8831763
 widget3:
   title: "Join Us"
   url: '/info/'
   image: showcase/wod2.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '"Be impressed by intensity, not volume." <cite>Coach Glassman</cite>'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -47,7 +49,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/skUxFsTzZ4Q" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
