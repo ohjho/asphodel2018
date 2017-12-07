@@ -4,19 +4,23 @@
 - [x] Full width header Image only
 - [x] Asphodel Color Scheme
 - [ ] Social media icons footer bar
-- [ ] Getting started page
+- [ ] Updated landing page's three features
+- [X] Getting started page
 - [ ] WOD: import workouts
 - [ ] Schedule Page with healcode
 - [ ] Kids page
 - [ ] Contact page
-- [ ] Keep Moving page
+- [X] Keep Moving page
 - [ ] CF Kids and CF Journal icon in the footer
 
 ## Dev Stack
 - [ ] Rotating header images
 - [ ] social media icons topbar
+- [ ] Coaches page with dropdown bio and consistent size profile pics
+- [ ] Frontpage widget1 to get workout of the day automatically
 - [ ] small screen asphodel icon-font
 - [ ] background image
+- [ ] enable Disque
 - [ ] color scheme configable in config.yml with different sass files (e.g. facebook, DotCom, Black and Blue)
 - [ ] move some of the topbar style in \_04_settings_global.scss into \_07_layout.scss
 

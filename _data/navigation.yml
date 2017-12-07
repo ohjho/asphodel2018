@@ -32,9 +32,9 @@
   - title: "What is Crossfit"
     url: "/pages/what-is-crossfit"
   - title: "Packages/ Pricing"
-    url: "https://crossfitasphodel.com/getting-started"
+    url: "/info"
   - title: "Coaches"
-    url: "https://crossfitasphodel.com/coaches-trainers-and-team"
+    url: "/pages/coaches"
   # - title: "Drop-in"
   #   url: "https://crossfitasphodel.com/drop-ins"
 

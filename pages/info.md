@@ -1,38 +1,32 @@
 ---
-layout: page-fullwidth
-title: "Coaches"
-subheadline: "about our coaching staff"
+layout: page
+title: "Packages and Pricing"
+subheadline: "How does our membership work?"
 teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
 permalink: "/info/"
+header:
+    image_fullwidth: "headers/packages1.jpg"
+    caption: "we need a picture of community here"
 ---
 
-<!-- first row-->
-<div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}/coaches/profile_ash.jpg" alt="">
-        <p> Ashley Booth | Director of Fitness & Co-Founder (CF L3)</p>
-    </div><!-- /.medium-6.columns -->
+## Monthly Membership
 
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}/coaches/profile_cris.jpg" alt="">
-        <p>Cris O'Brien | Director of Operations (CF L2)</p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
+- [ ] Unlimited - $2700
+- [ ] 3X Per Week - $2000
+- [ ] Teacher/Fire/Police/First Responder Medical - 20% discount (provide valid ID)
+- [ ] Full-time Student - 35% discount (provide student ID and class schedule)
+- [ ] Family pricing option - $4500 per family
+- [ ] Teens (13-18 Yrs) - $1,200/9 sessions
+- [ ] Kids (6-12 Yrs) - $500/9 sessions
 
-<!-- second row -->
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}/coaches/profile_vic.jpg" alt="">
-        <p>Victoria Campos | Crossfit Coach (CF L2)</p>
-    </div><!-- /.medium-4.columns -->
+## Multi-month Options
 
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}/coaches/profile_van.jpg" alt="">
-        <p>Vanessa Cheung | Director of Wellness Development</p>
-    </div><!-- /.medium-4.columns -->
+- [ ] Pilot - $5400 (4 months, 40 sessions)
+- [ ] 8 class pack - $2000 (2 months and available only to people who have completed on-ramp with Asphodel)
 
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}/coaches/profile_jacky.jpg" alt="">
-        <p>Jacky Kan | {Retired} General Manager</p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
+## Traveler's (i.e. non-HK residents only)
+
+- [ ] Drop-in - $250
+- [ ] 6 Class Traveler Pack - $1200
+
+**All payments must be settled prior to joining classes.**

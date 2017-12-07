@@ -7,10 +7,11 @@
 layout: frontpage
 header:
   image_fullwidth: headers/cris2_crop.jpg
+
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  title: "Work out of the Day"
+  url: '/blog/'
+  image: showcase/whats_crossfit.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
