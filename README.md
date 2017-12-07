@@ -1,5 +1,5 @@
 ## Need to have
-- [ ] Favicon
+- [x] Favicon
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
 - [ ] Asphodel Color Scheme
@@ -17,6 +17,8 @@
 - [ ] social media icons topbar
 - [ ] small screen asphodel icon-font
 - [ ] background image
+- [ ] color scheme configable in config.yml with different sass files (e.g. facebook, DotCom, Black and Blue)
+- [ ] move some of the topbar style in \_04_settings_global.scss into \_07_layout.scss
 
 And what license is this project released under? [This one][2].
 

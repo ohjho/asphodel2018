@@ -16,22 +16,23 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color:       	#111;
+$text-color:       	#fff1f1; //#f9f9f9; //#111;
 $body-font-color: 	$text-color;
-$body-bg: 			#fdfdfd;
+$header-font-color: $text-color;
+$body-bg: 			    #3E3E3E;//#575757; //#fdfdfd;
 
 
 
-/* Corporate Identity Colorpalette
-   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
+/* Dark Red to Light Red
+   http://www.color-hex.com/color-palette/3686
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-1: #ff8888; // Pink       //#ff0000;		// Light Red
+$ci-2: #ff0000; // Light Red  //#bf0000;		// Red
+$ci-3: #bf0000; // Fire Red   //#800000;		// Burgendy
+$ci-4: #800000; // Burgendy   //#400000;		// Dark Red
+$ci-5: #400000; // Dark Red   //#250000;		// Dark Dark Red
+$ci-6: #000000; // Black
 
 
 
@@ -40,7 +41,7 @@ $ci-6: #A1D044;     // green
 
 $primary-color: $ci-1;
 $secondary-color: $ci-6;
-$alert-color: $ci-5;
+$alert-color: $ci-3;
 $success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
@@ -72,20 +73,20 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
-//$topbar-bg-color: $ci-1;
+//$topbar-bg-color: $body-bg;
+$topbar-bg-color: $ci-6;
 $topbar-bg: $topbar-bg-color;
 
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: $ci-2; //$ci-1;
 
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
+$topbar-link-color: $ci-2; //#000;
+$topbar-link-color-hover: $ci-3;//#000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $ci-5; //$ci-6;
 
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
@@ -112,11 +113,11 @@ $subnav-link-color: $grey-8;
 ------------------------------------------------------------------- */
 
 $footer-bg: $grey-8;
-$footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-color: $text-color; //#fff;
+$footer-link-color: $ci-5; //$ci-6;
 
 
-$subfooter-bg: $grey-13;
+$subfooter-bg: $grey-12;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
