@@ -20,10 +20,10 @@
 - [ ] color scheme configable in config.yml with different sass files (e.g. facebook, DotCom, Black and Blue)
 - [ ] move some of the topbar style in \_04_settings_global.scss into \_07_layout.scss
 
-And what license is this project released under? [This one][2].
 
 ## Issues?
 [![Go ahead Log an Issue][https://github.com/ohjho/asphodel2018/assets/img/readme_logissues.jpg]][1]
+
 
 ## Why use Jekyll?
 
@@ -45,6 +45,10 @@ Phlow's Feeling Responsive is heavily customizable.
 
 ## Changelog
 **[Read Changelog ›][6]**
+
+
+## License
+And what license is this project released under? [This one][2].
 
 
 

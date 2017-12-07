@@ -52,7 +52,7 @@ headerlogo: "logo_white_x80.png"
 
 
 # Paginates all X entries
-paginate: 5
+paginate: 7 #<- one week's worth of programming
 
 
 # Pagination path › Important for blog page in /blog/ to work
