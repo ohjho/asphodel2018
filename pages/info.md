@@ -6,7 +6,7 @@ teaser: "Since years I am programming and designing websites. I love to work wit
 permalink: "/info/"
 header:
     image_fullwidth: "headers/packages1.jpg"
-    caption: "we need a picture of community here"
+    caption: "you are not only joining a gym, you are joining a family"
 ---
 
 ## Monthly Membership

@@ -12,18 +12,18 @@ widget1:
   title: "Work out of the Day"
   url: '/blog/'
   image: showcase/whats_crossfit.jpg
-  text: 'Anticipating the unknown? Check to see if today''s wod out now...'
+  text: 'Anticipating the unknown? <br>Check to see if today''s wod out now...'
 widget2:
   title: "The Open is coming."
   url: '/pages/what-is-crossfit' #<- link to schedule?
-  text: 'Have you been training?'
+  text: 'Are you prepared?<br><br>Train now.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/skUxFsTzZ4Q/sddefault.jpg" width="302" height="200" alt=""/></a>'
   # widget2's video call the video script below
   # How to get YouTube thumbnails: https://gist.github.com/protrolium/8831763
 widget3:
   title: "Join Us"
   url: '/info/'
-  image: showcase/wod2.jpg
+  image: showcase/wod1.jpg
   text: '"Be impressed by intensity, not volume." <cite>Coach Glassman</cite>'
 #
 # Use the call for action to show a button on the frontpage

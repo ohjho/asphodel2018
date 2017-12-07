@@ -1289,9 +1289,10 @@ $table-even-row-bg: $grey-1;
 // $table-border-color: $gainsboro;
 
 // These control the table head styles
-$table-head-bg: $grey-8;
+$table-head-bg: $ci-5; //$grey-8;
 // $table-head-font-size: rem-calc(14);
 // $table-head-font-color: $jet;
+$table-head-font-color: $ci-1;
 // $table-head-font-weight: $font-weight-bold;
 // $table-head-padding: rem-calc(8 10 10);
 

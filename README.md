@@ -14,6 +14,7 @@
 - [ ] CF Kids and CF Journal icon in the footer
 
 ## Dev Stack
+- [ ] update contact form email address when ready for launch
 - [ ] Rotating header images
 - [ ] social media icons topbar
 - [ ] Coaches page with dropdown bio and consistent size profile pics
