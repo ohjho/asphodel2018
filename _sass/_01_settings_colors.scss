@@ -93,16 +93,16 @@ $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-bg: $ci-5; // Background Mobile Navigation
+$topbar-dropdown-link-color: $ci-5;//#000;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color: $ci-2; //#000;
+$topbar-menu-icon-color: $ci-2; //#000;
+$topbar-menu-link-color-toggled: $ci-4; //$ci-6;
+$topbar-menu-icon-color-toggled: $ci-4; //$ci-6;
 
 $subnav-bg: $grey-13;
 $subnav-color: $grey-8;

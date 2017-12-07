@@ -1,8 +1,8 @@
-## Need to have
+## Current
 - [x] Favicon
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
-- [ ] Asphodel Color Scheme
+- [x] Asphodel Color Scheme
 - [ ] Social media icons footer bar
 - [ ] Getting started page
 - [ ] WOD: import workouts
@@ -12,7 +12,7 @@
 - [ ] Keep Moving page
 - [ ] CF Kids and CF Journal icon in the footer
 
-## Nice to Have
+## Dev Stack
 - [ ] Rotating header images
 - [ ] social media icons topbar
 - [ ] small screen asphodel icon-font
@@ -22,9 +22,12 @@
 
 And what license is this project released under? [This one][2].
 
+## Issues?
+[![Go ahead Log an Issue][https://github.com/ohjho/asphodel2018/assets/img/readme_logissues.jpg]][1]
+
 ## Why use this theme?
 
-Feeling Responsive is heavily customizable.
+Phlow's Feeling Responsive is heavily customizable.
 
 1. Language-Support :)
 2. Optimized for speed and it's responsive.
@@ -34,35 +37,17 @@ Feeling Responsive is heavily customizable.
 
 **[More ›][3]**
 
-
-
 ## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
 **[Read Changelog ›][6]**
 
 
 
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [1]: https://github.com/ohjho/asphodel2018/issues/new
+ [2]: https://github.com/ohjho/asphodel2018/blob/gh-pages/LICENSE
  [3]: http://phlow.github.io/feeling-responsive/info/
  [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [6]: https://ohjho.github.io/asphodel2018/changelog/
  [7]: http://phlow.github.io/feeling-responsive/
  [8]: http://phlow.github.io/simplicity/
  [9]: #
