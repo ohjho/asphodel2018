@@ -25,6 +25,12 @@ And what license is this project released under? [This one][2].
 ## Issues?
 [![Go ahead Log an Issue][https://github.com/ohjho/asphodel2018/assets/img/readme_logissues.jpg]][1]
 
+## Why use Jekyll?
+
+**[Read this ›][4]**
+**[and/or this ›][5]**
+
+
 ## Why use this theme?
 
 Phlow's Feeling Responsive is heavily customizable.
@@ -45,10 +51,8 @@ Phlow's Feeling Responsive is heavily customizable.
  [1]: https://github.com/ohjho/asphodel2018/issues/new
  [2]: https://github.com/ohjho/asphodel2018/blob/gh-pages/LICENSE
  [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
+ [4]: http://www.hildeberto.com/2017/07/welcome-to-jekyll.html
+ [5]: https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
  [6]: https://ohjho.github.io/asphodel2018/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
+  [9]: #
  [10]: #
