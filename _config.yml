@@ -23,7 +23,7 @@ credits: '<p>Created with &hearts; by <a href="http://johnho.ca/">JHO</a> with <
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: jho
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -33,6 +33,9 @@ baseurl: ''
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/ohjho/asphodel2018/edit/gh-pages
+
+# This is the email for the contact page
+contact_email: 'jho.sfu@gmail.com'
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.

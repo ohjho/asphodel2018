@@ -17,7 +17,7 @@ Email us [info@crossfitasphodel.com](mailto:info@crossfitasphodel.com) or use th
 <div class="row">
 
     <div id="contactForm" class="small-8 medium-8 large-8 columns">
-      <form id="myForm" method="post" action="https://formspree.io/jho.sfu@gmail.com" data-abide>  
+      <form id="myForm" method="post" action="https://formspree.io/{{site.contact_email}}" data-abide>  
 
           <h5>Contact Us</h5>
           <label>Name</label>
