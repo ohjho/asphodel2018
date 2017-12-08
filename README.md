@@ -3,18 +3,22 @@
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
 - [x] Asphodel Color Scheme
+- [ ] update DNS name space
 - [ ] Social media icons footer bar
 - [X] Updated landing page's three features
 - [X] Getting started page
 - [ ] WOD: import workouts
 - [ ] Schedule Page with healcode
 - [ ] Kids page
-- [ ] Contact page
+- [X] Contact page
 - [X] Keep Moving page
+- [ ] Create Panerai color scheme
 - [ ] CF Kids and CF Journal icon in the footer
+- [ ] Update Coaches pictures
 
 ## Dev Stack
 - [ ] update contact form email address when ready for launch
+- [ ] style header image caption
 - [ ] Rotating header images
 - [ ] social media icons topbar
 - [ ] Coaches page with dropdown bio and consistent size profile pics
