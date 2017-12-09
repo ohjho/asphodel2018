@@ -1,4 +1,4 @@
-## Current
+## Dev Stack
 - [x] Favicon
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
@@ -7,6 +7,7 @@
 - [ ] Social media icons footer bar
 - [X] Updated landing page's three features
 - [X] Getting started page
+- [ ] Clean up frontpage
 - [ ] WOD: import workouts
 - [ ] Schedule Page with healcode
 - [ ] Kids page
@@ -16,7 +17,7 @@
 - [ ] CF Kids and CF Journal icon in the footer
 - [ ] Update Coaches pictures
 
-## Dev Stack
+## Next release:
 - [ ] update contact form email address when ready for launch
 - [ ] style header image caption
 - [ ] Rotating header images
