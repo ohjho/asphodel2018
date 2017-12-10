@@ -10,7 +10,7 @@ header:
 
 widget1:
   title: "Work out of the Day"
-  url: '/blog/'
+  url: "#wod"   #'/blog/'
   image: showcase/whats_crossfit.jpg
   text: 'Anticipating the unknown? <br>Check to see if today''s wod out now...'
 widget2:

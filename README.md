@@ -32,12 +32,15 @@
 
 
 ## Issues?
-[![Go ahead Log an Issue][https://github.com/ohjho/asphodel2018/assets/img/readme_logissues.jpg]][1]
+[![Go ahead Log an Issue][https://github.com/ohjho/asphodel2018/images/readme_logissues.jpg]][1]
 
 
 ## Why use Jekyll?
 
+
 **[Read this ›][4]**
+
+
 **[and/or this ›][5]**
 
 

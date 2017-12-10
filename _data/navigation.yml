@@ -39,10 +39,12 @@
   #   url: "https://crossfitasphodel.com/drop-ins"
 
 - title: "W.O.D."
-  url: "/blog/"
+  url: "#wod"   #"/blog/"
   side: right
-  # dropdown:
-  # - title: "WOD Archive"
+  dropdown:
+    - title: "Blog"
+      url: "/blog"
+  # - title: "Blog Archive"
   #   url: "/blog/archive/"
 
 - title: Schedule
