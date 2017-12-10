@@ -32,7 +32,7 @@
 
 
 ## Issues?
-[![Go ahead Log an Issue][https://github.com/ohjho/asphodel2018/blob/gh-pages/images/readme_logissues.jpg]][1]
+[![Go ahead Log an Issue](https://github.com/ohjho/asphodel2018/blob/gh-pages/images/readme_logissues.jpg)][1]
 
 
 ## Why use Jekyll?
