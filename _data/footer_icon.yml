@@ -12,7 +12,7 @@
 - name: Crossfit Journal
   url: http://journal.crossfit.com/
   class: item
-  image: footer/logo_cfj_white.png
+  image: footer/logo_cfj_white_sq.png
   title: ""
 
 # - name: Pinterest
