@@ -3,14 +3,14 @@
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
 - [x] Asphodel Color Scheme
-- [ ] update DNS name space
+- [ ] update DNS name space for custom domain
 - [ ] Social media icons footer bar
 - [X] Updated landing page's three features
 - [X] Getting started page
 - [ ] Clean up frontpage
 - [ ] WOD: import workouts
 - [ ] Schedule Page with healcode
-- [ ] Kids page
+- [X] Kids page
 - [X] Contact page
 - [X] Keep Moving page
 - [ ] Create Panerai color scheme
