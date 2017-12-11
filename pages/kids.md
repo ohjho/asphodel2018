@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Kids"
-subheadline: "life is play"
+subheadline: "forging the future of fitness"
 teaser: "CrossFit Asphodel is Hong Kong’s FIRST authorized CrossFit Kids and CrossFit Teens program."
 header:
    image_fullwidth: "headers/kids2.jpg"
