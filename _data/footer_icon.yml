@@ -1,26 +1,16 @@
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/
-#   class: icon-cloud
-#   title: ""
-
 - name: Crossfit Kids
   url: http://kids.crossfit.com
   class: item
   image: footer/logo_cf_kids_white.png
-  title: ""
+  title: "link to Crossfit Kids"
 
 - name: Crossfit Journal
   url: http://journal.crossfit.com/
   class: item
   image: footer/logo_cfj_white_sq.png
-  title: ""
+  title: "link to Crossfit Journal"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
 #   class: icon-pinterest
 #   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil

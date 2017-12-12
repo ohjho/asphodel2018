@@ -4,21 +4,22 @@
 - [x] Full width header Image only
 - [x] Asphodel Color Scheme
 - [ ] update DNS name space for custom domain
-- [ ] Social media icons footer bar
 - [X] Updated landing page's three features
 - [X] Getting started page
 - [ ] Clean up frontpage
 - [ ] WOD: import workouts
-- [ ] Schedule Page with healcode
+- [X] Schedule Page with healcode
 - [X] Kids page
 - [X] Contact page
 - [X] Keep Moving page
 - [ ] Create Panerai color scheme
-- [ ] CF Kids and CF Journal icon in the footer
+- [X] CF Kids and CF Journal icon in the footer
 - [ ] Update Coaches pictures
+- [ ] Social media icons footer bar
 
 ## Next release:
 - [ ] update contact form email address when ready for launch
+- [ ] add mindbody links: sign in, cart, buy now
 - [ ] style header image caption
 - [ ] Rotating header images
 - [ ] social media icons topbar

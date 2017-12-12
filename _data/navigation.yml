@@ -48,7 +48,7 @@
   #   url: "/blog/archive/"
 
 - title: Schedule
-  url: "https://clients.mindbodyonline.com/classic/home?studioid=491393"
+  url: "/schedule"
   side: right
 
 - title: Kids
