@@ -3,7 +3,7 @@
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
 - [x] Asphodel Color Scheme
-- [ ] update DNS name space for custom domain
+- [X] update DNS name space for custom domain
 - [X] Updated landing page's three features
 - [X] Getting started page
 - [ ] Clean up frontpage
@@ -14,11 +14,11 @@
 - [X] Keep Moving page
 - [ ] Create Panerai color scheme
 - [X] CF Kids and CF Journal icon in the footer
-- [ ] Update Coaches pictures
-- [ ] Social media icons footer bar
 
 ## Next release:
 - [ ] update contact form email address when ready for launch
+- [ ] Update Coaches pictures
+- [ ] Social media icons footer bar
 - [ ] add mindbody links: sign in, cart, buy now
 - [ ] style header image caption
 - [ ] Rotating header images
