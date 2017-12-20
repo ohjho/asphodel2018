@@ -6,27 +6,26 @@
 - [X] update DNS name space for custom domain
 - [X] Updated landing page's three features
 - [X] Getting started page
-- [ ] Clean up frontpage
 - [ ] WOD: import workouts
+- [ ] Clean up frontpage - add google map
+- [ ] social media icons topbar
+- [ ] add mindbody links: sign in, cart, buy now
+- [ ] Create Panerai color scheme
+- [ ] Coaches page with dropdown bio and consistent size profile pics
+- [ ] Update Coaches pictures
+- [ ] background image
 - [X] Schedule Page with healcode
 - [X] Kids page
 - [X] Contact page
 - [X] Keep Moving page
-- [ ] Create Panerai color scheme
 - [X] CF Kids and CF Journal icon in the footer
 
 ## Next release:
 - [ ] update contact form email address when ready for launch
-- [ ] Update Coaches pictures
-- [ ] Social media icons footer bar
-- [ ] add mindbody links: sign in, cart, buy now
 - [ ] style header image caption
 - [ ] Rotating header images
-- [ ] social media icons topbar
-- [ ] Coaches page with dropdown bio and consistent size profile pics
 - [ ] Frontpage widget1 to get workout of the day automatically
 - [ ] small screen asphodel icon-font
-- [ ] background image
 - [ ] enable Disque
 - [ ] color scheme configable in config.yml with different sass files (e.g. facebook, DotCom, Black and Blue)
 - [ ] move some of the topbar style in \_04_settings_global.scss into \_07_layout.scss
