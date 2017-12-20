@@ -1,4 +1,4 @@
-## Dev Stack
+## Dev Stack (for Jan 27, 2018 launch)
 - [x] Favicon
 - [x] Sticky TopBar with Mobile Hamburger menu
 - [x] Full width header Image only
