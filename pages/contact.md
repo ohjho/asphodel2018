@@ -6,7 +6,7 @@ teaser: "someone's always online and ready to help"
 header: no
 permalink: "/contact/"
 ---
-The box's at: [ G/F Fook Hing Building, 33 Lee Chung Street, Chai Wan][1]
+The box's at: [ {{site.address}}][1]
 
 Nearest MTR- Chai Wan Station **_Exit C_**
 
