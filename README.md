@@ -7,7 +7,7 @@
 - [X] Updated landing page's three features
 - [X] Getting started page
 - [ ] WOD: import workouts
-- [ ] Clean up frontpage - add google map
+- [X] Clean up frontpage - add google map
 - [ ] social media icons topbar
 - [ ] add mindbody links: sign in, cart, buy now
 - [ ] Create Panerai color scheme
