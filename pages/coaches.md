@@ -6,7 +6,7 @@ teaser: "It is also interesting to notice that the health professional maintains
 header: no
 ---
 
-<!-- first row--><!---->
+<!-- first row -->
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}coaches/profile_ash.jpg" alt="">
