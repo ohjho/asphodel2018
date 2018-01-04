@@ -6,9 +6,9 @@ teaser: "someone's always online and ready to help"
 header: no
 permalink: "/contact/"
 ---
-The box's at: [ {{site.address}}][1]
+The box's at: [ Shop 11, {{site.address}}][1]
 
-Nearest MTR- Chai Wan Station **_Exit C_**
+Nearest MTR- HKU Station **_Exit C2_**
 
 You can also call **_(+852) 35687719_** or
 
@@ -36,4 +36,4 @@ Email us [info@crossfitasphodel.com](mailto:info@crossfitasphodel.com) or use th
         </form>
     </div><!--end 8 columns-->
 </div>
-[1]: https://www.google.com.hk/maps/place/Reebok+CrossFit+Asphodel/@22.2659139,114.2334433,17z/data=!3m1!4b1!4m5!3m4!1s0x3404010cafabaf53:0xacf344de533af41a!8m2!3d22.265909!4d114.235632?hl=en
+[1]: https://www.google.com.hk/maps/search/?api=1&query={{site.address}}
