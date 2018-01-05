@@ -8,13 +8,16 @@ header: no
 
 {% assign div_count = 0 %}
 {% for coach in site.data.coaches %}
-  {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
-  {% if modulo == '0' or forloop.first %}
-<div class="row t60">
-  {% endif %}
 
   {% if coach.display %}
+  
     {% assign div_count = div_count | plus: 1 %}
+
+    {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
+    {% if modulo == '0' or forloop.first %}
+<div class="row t60">
+    {% endif %}
+
   <div class="medium-6 columns">
     <img src="{{site.urlimg}}{{coach.img_url}}" alt="{{coach.name}} profile picture">
     <h5>{{coach.name}}</h5>
@@ -32,10 +35,11 @@ header: no
     </div><!-- dropdown-cert -->
 
   </div><!-- /.medium-6.columns -->
-  {% endif %}
 
-  {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
-  {% if modulo == '0' or forloop.last %}
+    {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
+    {% if modulo == '0' or forloop.last %}
 </div><!-- /.row -->
+    {% endif %}
+
   {% endif %}
 {% endfor %}
