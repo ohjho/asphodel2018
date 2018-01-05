@@ -10,11 +10,11 @@ header: no
 {% for coach in site.data.coaches %}
 
   {% if coach.display %}
-  
+
     {% assign div_count = div_count | plus: 1 %}
 
     {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
-    {% if modulo == '0' or forloop.first %}
+    {% if modulo <> '0' or forloop.first %}
 <div class="row t60">
     {% endif %}
 
