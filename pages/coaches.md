@@ -14,9 +14,9 @@ header: no
     {% assign div_count = div_count | plus: 1 %}
 
     {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
-    {% if modulo <> '0' or forloop.first %}
+    {% if modulo != '0' or forloop.first %}
 <div class="row t60">
-    {% endif %}
+    {% endif %} <!-- {{modulo}} -->
 
   <div class="medium-6 columns">
     <img src="{{site.urlimg}}{{coach.img_url}}" alt="{{coach.name}} profile picture">
