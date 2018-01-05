@@ -56,7 +56,7 @@ logo: "logo_white_100.png"
 headerlogo: "logo_white_x80.png"
 
 # background image, will use solid color if not given
-bgimg: 'images/bg.jpg'
+bgimg: 'https://ohjho.github.io/asphodel2018/images/bg.jpg'
   #'https://source.unsplash.com/AupdmQ4w_M4/1600x900'
 
 # Paginates all X entries
