@@ -11,9 +11,9 @@
 - [ ] social media icons topbar
 - [ ] add mindbody links: sign in, cart, buy now
 - [ ] Create Panerai color scheme
-- [ ] Coaches page with dropdown bio and consistent size profile pics
+- [X] Coaches page with dropdown bio and consistent size profile pics
 - [ ] Update Coaches pictures
-- [ ] background image
+- [X] background image
 - [X] Schedule Page with healcode
 - [X] Kids page
 - [X] Contact page

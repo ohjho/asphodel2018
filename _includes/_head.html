@@ -89,3 +89,15 @@
 	{% unless page.style == NULL %}
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
+
+	{% unless site.bgimg == NULL %}
+	<style>
+		body{
+			background:url({{site.bgimg}}) no-repeat center center fixed;
+			-webkit-background-size:cover;
+			-moz-background-size:cover;
+			-o-background-size:cover;
+			background-size:cover;
+		}
+	</style>
+	{% endunless %}
