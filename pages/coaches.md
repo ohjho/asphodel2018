@@ -16,7 +16,7 @@ header: no
     {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
     {% if modulo != '0' or forloop.first %}
 <div class="row t60">
-    {% endif %} <!-- {{modulo}} -->
+    {% endif %}
 
   <div class="medium-6 columns">
     <img src="{{site.urlimg}}{{coach.img_url}}" alt="{{coach.name}} profile picture">
@@ -36,7 +36,6 @@ header: no
 
   </div><!-- /.medium-6.columns -->
 
-    {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
     {% if modulo == '0' or forloop.last %}
 </div><!-- /.row -->
     {% endif %}
