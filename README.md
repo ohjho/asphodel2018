@@ -23,6 +23,7 @@
 ## Next release:
 - [ ] update contact form email address when ready for launch
 - [ ] style header image caption
+- [ ] instagram blog post header image
 - [ ] Rotating header images
 - [ ] Frontpage widget1 to get workout of the day automatically
 - [ ] small screen asphodel icon-font
