@@ -1,12 +1,29 @@
 <div id="subnav" class="sticky">
-  <nav class="top-bar hide-for-small-only" role="navigation" data-topbar>
+  <nav class="top-bar hide-for-small-only" data-topbar role="navigation" data-options="sticky_on: large">
     <ul class="title-area">
+      <!-- no need for name in the social network topbar
+      <li class ="name">
+        <h1><a href="#">Something</a></h1>
+      </li>
+      -->
     </ul>
     <section class="top-bar-section">
+      <!-- Left Nav Section -->
+      <ul classs="left">
+      </ul>
+
+      <!-- Right Nav Section -->
       <ul class="right inline-list social-icons">
-	{% for social_item in site.data.socialmedia %}
-	<li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-	{% endfor %}
+{% for social_item in site.data.socialmedia %}
+	     <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+{% endfor %}
+
+        <!-- Built-in Components: Mindbody login -->
+        <li class="has-form">
+          <div class="medium-6 columns">
+            <a href="http://crossfit.com" class="button">Sign-in</a>
+          </div>
+        </li>
       </ul>
     </section>
   </nav>
