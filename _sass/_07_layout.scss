@@ -3,6 +3,7 @@
 
 - Adjustments: Video Layout
 - Navigation
+- Subnav
 - Search
 - Masthead
 - Masthead › small-only
@@ -53,6 +54,54 @@ body.video cite { color: #fff; }
         margin-right: rem-calc(8);
     }
 }
+
+/* Subnav
+------------------------------------------------------------------- */
+
+#subnav {
+    background: $subnav-bg;
+    color: $subfooter-color;
+    padding-top: 0px;
+    padding-bottom: -50px;
+    line-height: 10px;
+}
+
+/*
+#subfooter-left ul.inline-list {
+    float: left;
+}
+
+.credits a {
+    color: $subfooter-link-color;
+    border: 0;
+    text-transform: uppercase;
+    &:hover {
+        color: #fff;
+  }
+}
+*/
+.social-icons {
+    margin-bottom: 10px !important;
+
+// Beware of SCSS-Syntax here
+  li {
+    padding: 0 0 20px 0;
+  }
+  a {
+    font-size: rem-calc(23);
+    display: block;
+    width: 36px;
+    border-radius: 50%;
+    color: $subnav-bg;
+    background: $subnav-color;
+    text-align: center;
+    &:hover {
+      background: $subnav-bg;
+      color: #fff;
+    }
+  }
+}
+
 
 
 
