@@ -12,6 +12,13 @@ jho:
   uri: http://johnho.ca/
   email: jho.sfu@gmail.com
 
+ash:
+  name: "Ashley Booth"
+  siterole: "author"
+  uri:
+  email:
+  twitter:
+
 phlow: # replace this with your info
   name: "Phlow"
   siterole: "webmaster, developer, copywriter, designer"

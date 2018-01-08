@@ -30,6 +30,7 @@
 - [ ] enable Disque
 - [ ] color scheme configable in config.yml with different sass files (e.g. facebook, DotCom, Black and Blue)
 - [ ] move some of the topbar style in \_04_settings_global.scss into \_07_layout.scss
+- [ ] email newsletter
 
 
 ## Issues?
