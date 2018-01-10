@@ -12,7 +12,7 @@
 - [ ] add mindbody links: sign in, cart, buy now
 - [ ] Create Panerai color scheme
 - [X] Coaches page with dropdown bio and consistent size profile pics
-- [ ] Update Coaches pictures
+- [X] Update Coaches pictures
 - [X] background image
 - [X] Schedule Page with healcode
 - [X] Kids page

@@ -37,8 +37,11 @@ improve_content: https://github.com/ohjho/asphodel2018/edit/gh-pages
 
 # This is the email for the contact page
 contact_email: 'jho.sfu@gmail.com'
+
+# For Google Map
 address: '22 Praya Street, Kennedy Town, Hong Kong'
 gmap_api_key: 'AIzaSyBt_v7udLInJ1bujWHgDvpNCXeABS_BDsw'
+
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
 #
@@ -65,6 +68,9 @@ paginate: 7 #<- one week's worth of programming
 
 # Pagination path › Important for blog page in /blog/ to work
 paginate_path: "blog/page:num"
+
+# excerpt_separator to show excerpt from post
+excerpt_separator: <!--more-->
 
 
 # Theme works best with Kramdown (using the table of contents function)

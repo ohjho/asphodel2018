@@ -60,12 +60,17 @@ body.video cite { color: #fff; }
 
 #subnav {
     background: $subnav-bg;
-    color: $subfooter-color;
+    color: $subnav-color;
     padding-top: 30px;
     padding-bottom: -50px;
     line-height: 1;
+    margin-bottom: 0 !important;
 }
 
+#subnav-right {
+    background: $subnav-right-bg;
+    color: $subnav-right-color;
+}
 /*
 #subfooter-left ul.inline-list {
     float: left;
