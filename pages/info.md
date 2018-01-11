@@ -12,13 +12,13 @@ header:
 ## Monthly Membership
 
 
-Description | Price | Notes
---- | --- | ---
-Unlimited | $2700
-3X Per Week | $2000
-Family pricing option | $4500 per family
-Teens (13-18 Yrs) | $1,200/9 sessions
-Kids (6-12 Yrs) | $500/9 sessions
+Description | Price | Notes | {% icon fa-shopping-cart fa-lg %}
+--- | --- | --- | ---
+Unlimited | $2700 | |
+3X Per Week | $2000 | |
+Family pricing option | $4500 per family | |
+Teens (13-18 Yrs) | $1,200/9 sessions | |
+Kids (6-12 Yrs) | $500/9 sessions | |
 
 
 ## Multi-month Options
