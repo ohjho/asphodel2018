@@ -287,3 +287,6 @@ sass:
 plugins:
 - font_awesome
 - modulo.filter
+
+gems:
+- font_awesome
