@@ -285,5 +285,5 @@ sass:
 #
 # Plugins live in _plugins
 plugins:
-    - font_awesome
-    - modulo.filter
+- font_awesome
+- modulo.filter
