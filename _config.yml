@@ -286,7 +286,6 @@ sass:
 # Plugins live in _plugins
 plugins:
 - font_awesome
-- modulo.filter
 
 gems:
 - font_awesome
