@@ -24,10 +24,10 @@ Kids (6-12 Yrs) | $500/9 sessions | |
 ## Multi-month Options
 
 
-Description | Price | Notes
---- | --- | ---
-Pilot | $5400 | 4 months, 40 sessions
-8 class pack | $2000 | 2 months and available only to people who have completed on-ramp with Asphodel
+Description | Price | Notes | <i class="fa fa-shopping-cart fa-lg"></i>
+--- | --- | --- | ---
+Pilot | $5400 | 4 months, 40 sessions |
+8 class pack | $2000 | 2 months and available only to people who have completed on-ramp with Asphodel |
 
 
 ## Traveler's (i.e. non-HK residents only)
