@@ -13,8 +13,13 @@ header: no
 
     {% assign div_count = div_count | plus: 1 %}
 
+    {% comment %}{% raw %}
     {% capture modulo %}{{ div_count | mod:2 }}{% endcapture %}
     {% if modulo != '0' or forloop.first %}
+    {% endraw %}{% endcomment %}
+
+    {% capture icycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if icycle == 'odd' %}
 <div class="row t60">
     {% endif %}
 
@@ -36,7 +41,11 @@ header: no
 
   </div><!-- /.medium-6.columns -->
 
+    {% comment %}{% raw %}
     {% if modulo == '0' or forloop.last %}
+    {% endraw %}{% endcomment %}
+
+    {% if icycle == 'even' %}
 </div><!-- /.row -->
     {% endif %}
 
