@@ -6,7 +6,8 @@
 - [X] update DNS name space for custom domain
 - [X] Updated landing page's three features
 - [X] Getting started page
-- [X] WOD: import workouts
+- [X] WOD: import workouts; used [python-wordpress-json][7] and [jekyllfly][8]
+  - [ ] setup cron job to publish WODs daily at midnight
 - [X] Clean up frontpage - add google map
 - [ ] social media icons topbar
 - [ ] add mindbody links: sign in, cart, buy now
@@ -24,6 +25,7 @@
 - [ ] update contact form email address when ready for launch
 - [ ] style header image caption
 - [ ] instagram blog post header image
+- [ ] SEO
 - [ ] Rotating header images
 - [ ] Frontpage widget1 to get workout of the day automatically
 - [ ] small screen asphodel icon-font
@@ -73,5 +75,7 @@ And what license is this project released under? [This one][2].
  [4]: http://www.hildeberto.com/2017/07/welcome-to-jekyll.html
  [5]: https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
  [6]: https://ohjho.github.io/asphodel2018/changelog/
+ [7]: https://github.com/stylight/python-wordpress-json
+ [8]: https://github.com/htmfilho/jekyllfly
   [9]: #
  [10]: #

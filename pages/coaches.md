@@ -25,7 +25,10 @@ header: no
 
   <div class="medium-6 columns">
     <img src="{{site.urlimg}}{{coach.img_url}}" alt="{{coach.name}} profile picture">
-    <h5>{{coach.name}}</h5>
+    <h5>{% if coach.link %}<a href="{{coach.link}}">{% endif %}
+        {{coach.name}}
+        {% if coach.link %}</a>{% endif %}
+        </h5>
 
     <p>{{coach.title}}<br>
       <a data-dropdown="drop{{div_count}}-bio" aria-controls="drop{{div_count}}-bio" aria-expanded="false">Bio</a> |
