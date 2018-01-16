@@ -6,7 +6,7 @@
 - [X] update DNS name space for custom domain
 - [X] Updated landing page's three features
 - [X] Getting started page
-- [ ] WOD: import workouts
+- [X] WOD: import workouts
 - [X] Clean up frontpage - add google map
 - [ ] social media icons topbar
 - [ ] add mindbody links: sign in, cart, buy now

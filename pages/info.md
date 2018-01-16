@@ -12,7 +12,7 @@ header:
 ## Monthly Membership
 
 
-Description | Price | Notes | {% icon fa-shopping-cart fa-lg %}
+Description | Price | Notes | <i class="fa fa-shopping-cart fa-lg"></i>
 --- | --- | --- | ---
 Unlimited | $2700 | |
 3X Per Week | $2000 | |
