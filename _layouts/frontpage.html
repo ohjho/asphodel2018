@@ -107,14 +107,14 @@ format: frontpage
 
     <div class="row" id="wod">
         <div class="medium-6 columns">
-            {% for post in site.categories.wods limit:1 %}
+            {% for post in site.categories.wodup limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
                 {% if post.meta_description != NULL %}
                   {{ post.meta_description | strip_html | escape }}<br>
                 {% elsif post.teaser != empty %}
-                  {{ post.teaser | strip_html | escape }}<br>
+                  {{ post.teaser }}<br>
                 {% else %}
                   {{ post.excerpt | strip_html | escape }}<br>
                 {% endif %}
@@ -126,7 +126,7 @@ format: frontpage
 
         <div class="medium-6 columns" id="recent_wods">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='6' category='wods' offset='1' %}
+            {% include list-posts entries='6' category='wodup' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
