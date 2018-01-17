@@ -9,6 +9,7 @@
 - [X] WOD: import workouts; used [python-wordpress-json][7] and [jekyllfly][8]
   - [ ] setup cron job to publish WODs daily at midnight
 - [X] Clean up frontpage - add google map
+  - [ ] style map from [Snazzy Maps][9]
 - [ ] social media icons topbar
 - [ ] add mindbody links: sign in, cart, buy now
 - [ ] Create Panerai color scheme
@@ -20,6 +21,8 @@
 - [X] Contact page
 - [X] Keep Moving page
 - [X] CF Kids and CF Journal icon in the footer
+- [ ] add admin links: old site, log issues
+- [ ] gmap header for contact page
 
 ## Next release:
 - [ ] update contact form email address when ready for launch
@@ -69,13 +72,13 @@ And what license is this project released under? [This one][2].
 
 
 
- [1]: https://github.com/ohjho/asphodel2018/issues/new
- [2]: https://github.com/ohjho/asphodel2018/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: http://www.hildeberto.com/2017/07/welcome-to-jekyll.html
- [5]: https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
- [6]: https://ohjho.github.io/asphodel2018/changelog/
- [7]: https://github.com/stylight/python-wordpress-json
- [8]: https://github.com/htmfilho/jekyllfly
-  [9]: #
- [10]: #
+[1]: https://github.com/ohjho/asphodel2018/issues/new
+[2]: https://github.com/ohjho/asphodel2018/blob/gh-pages/LICENSE
+[3]: http://phlow.github.io/feeling-responsive/info/
+[4]: http://www.hildeberto.com/2017/07/welcome-to-jekyll.html
+[5]: https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
+[6]: https://ohjho.github.io/asphodel2018/changelog/
+[7]: https://github.com/stylight/python-wordpress-json
+[8]: https://github.com/htmfilho/jekyllfly
+[9]: https://snazzymaps.com/explore?text=&sort=&tag=dark&color=red
+[10]: #
