@@ -20,6 +20,7 @@
   display: true
   title: Crossfit Coach (CF L2)
   img_url: coaches/profile_vicky.jpg
+  link: vicky
   cert: "CrossFit Level 2 Trainer, CrossFit Weightlifting Certification, CrossFit Competitor’s Certification, CrossFit Pacific Regional 2016 Individual Competitor (23rd overall), CrossFit Pacific Regional 2015 Individual Competitor (28th overall), First Place China Championships 2016, Second Place Asia Championships 2015, Top 10 in Hawaii in U.S.A NorCal Region for CF Open 2017 (9th overall), Fittest Woman in China and fifth in Asia Region for the CF Open 201, Fittest Woman in Hong Kong and eighth in Asia Region for the CF Open 2015"
   bio: "Victoria is the only female coach at CrossFit Asphodel and an accomplished CrossFit Regionals athlete. She masterfully balances the passions of coaching and training, and she finds great reward in seeing athletes of all levels excel in the Sport of Fitness. Victoria draws from experience in New Zealand, Hong Kong, China and Hawaii to offer diversity in warm-up drills, scaling options, programming, personal training, nutritional advice and more. With a head coaching background at two affiliates, she is a credible instructor, who promotes solid technique before load and speed. After all, competition has taught Victoria that efficiency in movement is rooted in virtuosity: doing the common uncommonly well.
 Originally from Brazil, Victoria started CrossFitting in 2013 while living in New Zealand, because it was often too cold to play soccer or surf. In October 2014, she moved to Hong Kong and China to expand her teaching and training career. Victoria also enjoys surfing, Brazilian jiu-jitsu, soccer, skateboarding, traveling and eating."
@@ -28,6 +29,7 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
   display: true
   title: Director of Wellness Development
   img_url: coaches/profile_vani.jpg
+  link: vanni
   cert: "CrossFit Level 1 Trainer, CrossFit Kids Trainer, CrossFit Endurance and Mobility"
   bio: "Vanessa moved back to Hong Kong in 2010, and it was not until the fall of 2013 that she got exposed to CrossFit. Thanks to job changes from practicing landscape architecture to working in real estate property development. Since then, the words 'health' and 'fitness' took on a completely new and inspiring definition which changed her life.
 
@@ -39,6 +41,7 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
   display: false
   title: "[Retired] Gym General Manager"
   img_url: coaches/profile_jacky.jpg
+  link: jaki
   cert: "CrossFit Level 2 Trainer, ACSM Personal Trainer Certificate, Agatsu Kettlebell Certificate, JIBC Firefighter Level I & II, First Responder Level III with AED and Spinal Management, Taranis Winter Challenge 2010, 2011, 2012, 2011 BC Crossfit Olympic Lifting Challenge 69kg – Third Place, CrossFit Games 2011 Canada West Regional Team Competitor – 9th, Vancouver Nuts Cup 2012, Coastal Team Shootout 2014 – First Place, CrossFit Games 2014 Asia Regional Team Competitor – 14th"
   bio: "Jacky was introduced to Crossfit in 2009 when he was looking for firefighting-related training programs to pursue his childhood dream in becoming a firefighter. Since then, competitive CrossFit, and the CrossFit has become an integral part of his life. CrossFit has made him into an all-rounded athlete – strengthening his physical and mental fitness to face the unknown challenges that he can encounter in life.
 
@@ -50,6 +53,7 @@ Jacky strongly believes that whatever your goal is, if you stay focused, determi
   display: true
   title: Crossfit Coach
   img_url: coaches/profile_michael.jpg
+  link: michael
   cert: "CF L2"
   bio: "Michael's awesome"
 
@@ -57,6 +61,7 @@ Jacky strongly believes that whatever your goal is, if you stay focused, determi
   display: true
   title: Crossfit Coach
   img_url: coaches/profile_trank.jpg
+  link: trank
   cert: "CF L2"
   bio: "T-Rank is back. <br> Back for <b>more</b>"
 
@@ -64,12 +69,14 @@ Jacky strongly believes that whatever your goal is, if you stay focused, determi
   display: true
   title: Gym General Manager
   img_url: coaches/profile_aubrey.jpg
+  link: aubrey
   cert: "CF L1"
   bio: "Aubrey is awesome"
 
 - name: John Ho
   display: true
-  title: Crossfit Coach (CF L2) and Residence Yogi
+  title: Crossfit Coach (CF L2) + Residence Yogi
   img_url: coaches/profile_jho.jpg
+  link: jho
   cert: "Crossfit Level 2 Trainer, Crossfit Gymnastics Certified, 200+ Hrs Yoga Teacher Training"
   bio: "John started Crossfitting with Reebok CrossFit Asphodel in 2012. And it has been his passion since. He believes in infusing fun and element of play into any form of rigorous physical training. He also believes that training for the body is training for the mind. Workout should be hard, yet body and mind should stay soft and flexible; always open to new challenges, training methodologies, and physical adaptations. Movements should link with breaths, as breaths are always intricately linked with the mind; and a balance can always be found somewhere between effort and ease. These are the principles that he always strive to share in his coaching and on the mat as a Yoga teacher."

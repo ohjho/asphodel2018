@@ -2,11 +2,11 @@
 layout: page
 title: "Packages and Pricing"
 subheadline: "How does our membership work?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "you are not only joining a gym, you are joining a family"
 permalink: "/info/"
 header:
     image_fullwidth: "headers/packages1.jpg"
-    caption: "you are not only joining a gym, you are joining a family"
+    caption: ""
 ---
 
 ## Monthly Membership

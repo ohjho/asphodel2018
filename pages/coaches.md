@@ -31,8 +31,10 @@ header: no
         </h5>
 
     <p>{{coach.title}}<br>
+      {% comment %}
       <a data-dropdown="drop{{div_count}}-bio" aria-controls="drop{{div_count}}-bio" aria-expanded="false">Bio</a> |
       <a data-dropdown="drop{{div_count}}-cert" aria-controls="drop{{div_count}}-cert" aria-expanded="false">Cert</a>
+      {% endcomment %}
       </p>
 
     <div id="drop{{div_count}}-bio" data-dropdown-content class="f-dropdown content mega" aria-hidden="true" tabindex="-1">

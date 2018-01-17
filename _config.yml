@@ -51,6 +51,8 @@ gmap_api_key: 'AIzaSyBt_v7udLInJ1bujWHgDvpNCXeABS_BDsw'
 urlimg: 'https://ohjho.github.io/asphodel2018/images/'
 #urlimg: 'images/'
 
+# Style Scheme: see options in _sass/_01_settings_colors-{}.scss and _sass/_02_settings_typography-{}.scss
+style: panerai
 
 # Logo size is 100x40 pixels
 logo: "logo_white_100.png"
