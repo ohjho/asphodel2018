@@ -16,23 +16,27 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color:       	#fff1f1; //#f9f9f9; //#111;
+$text-color:       	#fff1f1;     // White
 $body-font-color: 	$text-color;
 $header-font-color: $text-color;
-$body-bg: 			    #3E3E3E;//#575757; //#fdfdfd;
+$body-bg: 			    #3E3E3E;     // Grey
 
 
 
-/* Dark Red to Light Red
+/* Dark Red to Light Red:
    http://www.color-hex.com/color-palette/3686
+   Shades of Red:
+   http://www.color-hex.com/color-palette/51875
+   Red Rosses:
+   http://www.color-hex.com/color-palette/51458
 ------------------------------------------------------------------- */
 
-$ci-1: #ee2c2c;		// Light Red
-$ci-2: #ff0000; // Light Red  //#bf0000;		// Red
-$ci-3: #cb1521; // asphodel Red //#bf0000; // Fire Red   //#800000;		// Burgendy
-$ci-4: #800000; // Burgendy   //#400000;		// Dark Red
-$ci-5: #400000; // Dark Red   //#250000;		// Dark Dark Red
-$ci-6: #212121; //#000000; // Black
+$ci-1: #ca2222; //#b23939;  //Dark Rose  //#e12626;    //light rose
+$ci-2: #B71D27;               // ASPHODEL RED
+$ci-3: #ab0000;               // Fire Red
+$ci-4: #800000;               // Burgendy
+$ci-5: #400000;               // Dark Red
+$ci-6: #212121;               // off-black -> Topbar BG color
 
 
 
@@ -80,9 +84,9 @@ $topbar-bg: $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-2; //$ci-1;
 
-$topbar-link-color: $ci-3; //#000;
-$topbar-link-color-hover: $ci-1;//#000;
-$topbar-link-color-active: $ci-2; //#000;
+$topbar-link-color: $ci-2; //#000;
+$topbar-link-color-hover: $ci-3;//#000;
+$topbar-link-color-active: $ci-4; //#000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
@@ -95,7 +99,7 @@ $topbar-link-bg-active-hover: $ci-2;
 
 $topbar-dropdown-bg: $ci-5; // Background Mobile Navigation
 $topbar-dropdown-link-color: $ci-5;//#000;
-$topbar-dropdown-link-bg: $ci-3;
+$topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;

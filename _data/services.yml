@@ -1,8 +1,8 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+# - name: "Contact"
+#   url: "/contact/"
+#   title: "Contact"
 
 - name: "RSS"
   url: "/feed.xml"
@@ -15,3 +15,11 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
+
+- name: "Old site"
+  url: "http://crossfitasphodel.com"
+  title: "link to the old CrossfitAsphodel.com"
+
+- name: "Log an issue"
+  url: "https://github.com/ohjho/asphodel2018/issues/new"
+  title: "Found a bug with the site? Report it!"
