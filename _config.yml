@@ -56,6 +56,9 @@ urlimg: 'https://ohjho.github.io/asphodel2018/images/'
 # Style Scheme: see options in _sass/_01_settings_colors-{}.scss and _sass/_02_settings_typography-{}.scss
 style: panerai
 
+# Switch for showing Social Media icon bar above topbar
+display_social: false
+
 # Logo size is 100x40 pixels
 logo: "logo_white_100.png"
 
