@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Aubrey"
-subheadline: "General Manager"
+title: "Aubrey Edwards"
+subheadline: "Gym Manager"
 teaser: ""
 header: no
 image:

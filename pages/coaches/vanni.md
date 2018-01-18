@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Vanessa Cheung"
-subheadline: "Director of Wellness Development"
+subheadline: "Owner, Crossfit Kids Director"
 teaser: ""
 header: no
 image:

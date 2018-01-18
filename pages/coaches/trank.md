@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Taylor Rank"
-subheadline: "Crossfit Coach (CF L2)"
+subheadline: "Coach (CF-L2)"
 teaser: ""
 header: no
 image:

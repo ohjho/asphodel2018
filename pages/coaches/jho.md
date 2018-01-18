@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "John Ho"
-subheadline: "Crossfit Coach (CF L2) + Residence Yogi"
+subheadline: "Coach (CF-L2) + Residence Yogi"
 teaser: ""
 header: no
 image:

@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Ashley Booth"
-subheadline: "Director of Fitness & Co-Founder (CF L3)"
+subheadline: "Head Coach (CF-L3), Co-Founder"
 teaser: ""
 header: no
 image:

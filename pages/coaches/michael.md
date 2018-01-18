@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Michael"
-subheadline: "Crossfit Coach (CF L2)"
+title: "Michael Holmgaard"
+subheadline: "Coach (CF-L2)"
 teaser: ""
 header: no
 image:

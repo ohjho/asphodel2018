@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Cris O'Brien"
-subheadline: "Director of Operations (CF L2)"
+subheadline: "Owner, Coach (CF-L2)"
 teaser: ""
 header: no
 image:
