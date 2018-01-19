@@ -6,6 +6,7 @@
 - Foundation Color Variables
 - Grey Scale
 - Topbar-Navigation
+- Icon Bar
 - Footer
 - Code
 
@@ -16,6 +17,7 @@
 /* Basics
 ------------------------------------------------------------------- */
 
+$white:             #ffffff;
 $text-color:       	#fff1f1;     // White
 $body-font-color: 	$text-color;
 $header-font-color: $text-color;
@@ -114,6 +116,24 @@ $subnav-link-color: $grey-8;
 $subnav-right-bg: $ci-5;
 $subnav-right-color: $grey-1;
 
+
+/* Icon-bar
+// We use these to style the icon-bar and items
+------------------------------------------------------------------- */
+
+$icon-bar-bg: $grey-12;
+$icon-bar-font-color: $white;
+$icon-bar-font-color-hover: $icon-bar-font-color;
+$icon-bar-font-size: 1rem;
+$icon-bar-hover-color: $primary-color;
+$icon-bar-icon-color: $white;
+$icon-bar-icon-color-hover: $icon-bar-icon-color;
+$icon-bar-icon-size: 1.875rem;
+$icon-bar-image-width: 1.875rem;
+$icon-bar-image-height: 1.875rem;
+$icon-bar-active-color: $primary-color;
+$icon-bar-item-padding: 1.25rem;
+$icon-bar-disabled-opacity: 0.7;
 
 /* Footer
 ------------------------------------------------------------------- */

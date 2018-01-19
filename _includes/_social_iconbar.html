@@ -1,0 +1,24 @@
+<div>
+  <nav class="row">
+    <section class"small-12 medium-6 columns"></section>
+    <section class"small-12 medium-3 columns">
+      <div class="icon-bar two-up" role="navigation">
+        {% for social_item in site.data.socialmedia %}
+        <a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a><
+        {% endfor %}
+      </div>
+    </section><!-- /.columns-->
+    <section class"small-12 medium-3 columns">
+      <div class="icon-bar two-up" role="navigation">
+        <a class="item" role="button">
+          <healcode-widget data-version="0.2" data-link-class="healcode-login-register-text-link" data-site-id="15875" data-mb-site-id="491393" data-type="account-link" data-inner-html="Login | Register"></healcode-widget>
+        </a>
+      </div>
+    </section><!-- /.columns-->
+  </nav> <!-- /.row -->
+</div>
+    <!-- Mindbody login
+    <section id="subnav-right" class="small-12 medium-2 columns">
+      <healcode-widget data-version="0.2" data-link-class="healcode-login-register-text-link" data-site-id="15875" data-mb-site-id="491393" data-type="account-link" data-inner-html="Login | Register"></healcode-widget>
+      <healcode-widget data-version="0.2" data-link-class="healcode-cart-text-link" data-site-id="15875" data-mb-site-id="491393" data-type="cart-link" data-inner-html="Cart"></healcode-widget>
+    -->
