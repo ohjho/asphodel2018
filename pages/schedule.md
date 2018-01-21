@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Gym Schedule"
 subheadline: "book now to save a spot"
-teaser: "It's not what we do once in a while that shapes our lives. It's what we do consistently. <cite> Tony Robbins</cite>"
+teaser: "It's not what we do once in a while that shapes our lives. It's what we do consistently. <cite> ~Tony Robbins</cite>"
 permalink: /schedule/
 header: no
 ---

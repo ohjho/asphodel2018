@@ -56,6 +56,13 @@ urlimg: 'https://ohjho.github.io/asphodel2018/images/'
 # Style Scheme: see options in _sass/_01_settings_colors-{}.scss and _sass/_02_settings_typography-{}.scss
 style: panerai
 
+# Fonts: the two categories of fonts below will be loaded from Google Fonts
+#         to specify more than one family of font please use |
+# ref: https://developers.google.com/fonts/docs/getting_started
+# font gallery: https://fonts.google.com/
+font_sans_serif: "Lato|Work+Sans|Raleway|Poppins|Montserrat"
+font_serif: "Chelsea+Market|Bungee+Inline|Righteous|Lobster|Poiret+One" #"Volkhov|Spectral+SC|Kameron|Marcellus|"
+
 # Switch for showing Social Media icon bar above topbar
 display_social: false
 
