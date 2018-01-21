@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: headers/cris2_crop.jpg
+  image_fullwidth: headers/gym_h2.jpg
 
 widget1:
   title: "Work out of the Day"
@@ -15,7 +15,7 @@ widget1:
   text: 'Anticipating the unknown? <br>Check to see if today''s wod out now...'
 widget2:
   title: "The Open is coming."
-  url: '/pages/what-is-crossfit' #<- link to schedule?
+  url: '/schedule/'
   text: 'Are you prepared?<br><br>Train now.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/skUxFsTzZ4Q/sddefault.jpg" width="302" height="200" alt=""/></a>'
   # widget2's video call the video script below
@@ -36,9 +36,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+  url: https://github.com/ohjho/asphodel2018/issues/new
+  text: Found an issue with this BETA site? Log it ›
+  style: success
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
