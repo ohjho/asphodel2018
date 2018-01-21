@@ -86,7 +86,8 @@
 <!--
 Footer Icons. I just looked at https://foundation.zurb.com/sites/docs/v/5.5.3/components/icon-bar.html
 -->
-            <ul class="inline-list icon-bar two-up">
+            <!--<ul class="inline-list icon-bar two-up">-->
+            <ul class="inline-list">
             {% for footer_item in site.data.footer_icon %}
               <li><a href="{{ footer_item.url }}" target="_blank" class="{{ footer_item.class }}" title="{{ footer_item.title }}">
                   <img src="{{site.urlimg}}{{footer_item.image}}" width="75px" >

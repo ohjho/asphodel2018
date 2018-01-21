@@ -79,6 +79,8 @@ paginate_path: "blog/page:num"
 # excerpt_separator to show excerpt from post
 excerpt_separator: <!--more-->
 
+# show future dated posts?
+future: false
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
