@@ -42,7 +42,7 @@
   url: "#wod"   #"/blog/"
   side: right
   dropdown:
-    - title: "Blog"
+    - title: "past WODs"
       url: "/blog"
   # - title: "Blog Archive"
   #   url: "/blog/archive/"

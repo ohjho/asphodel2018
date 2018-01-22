@@ -1,0 +1,75 @@
+# Packages details to be displayed on /info/
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+
+- name: "Monthly Membership"
+  show_mindbody: true
+  table:
+  - category: "Unlimited"
+    price: "2,700 HKD"
+    service_id: 10191
+  - category: "3x Per Week"
+    price: "2,000 HKD"
+    service_id: 10192
+  - category: "Family"
+    notes: "unlimited for two family members"
+    price: "4,500 HKD Per Family"
+    service_id:
+  - category: "Teens (13-18 Yrs)"
+    notes: "9 sessions"
+    price: "1,200 HKD"
+    service_id: 10288
+  - category: "Kids (6-12 Yrs)"
+    notes: "9 sessions"
+    price: "500 HKD"
+    service_id: 10284
+
+- name: "Multi-month Options"
+  show_mindbody: true
+  table:
+  - category: "Air crews"
+    price: "5,400 HKD"
+    notes: "40 sessions valid for 4 months"
+    service_id:
+  - category: "8 classes pack"
+    price: "2,000 HKD"
+    notes: "valid for 2 months and available only to people who have completed on-ramp with Asphodel"
+    service_id: 10297
+
+- name: "Travelers"
+  description: "for non-HK residents only"
+  show_mindbody: true
+  table:
+  - category: "Drop-in"
+    price: "250 HKD"
+    service_id: 10161
+  - category: "6 classes Traveler Pack"
+    price: "1,200 HKD"
+    service_id:
+
+- name: "New to Asphodel?"
+  show_mindbody: true
+  table:
+  - category: "Trial Week"
+    price: "500 HKD"
+    notes: "Try 5 Crossfit Classes on your trial week"
+    service_id: 10296
+  - category: "Beginners OnRamp"
+    price: "500 HKD"
+    notes: "3 intro sessions tailored for beginners"
+    service_id: 10307
+
+- name: "Discounts"
+  description: "Talk to us in person about the following options"
+  show_mindbody: false
+  table:
+  - category: "Teacher/ Fire/ Police/ Medical First Responder"
+    price: "20% off"
+    notes: "provide valid ID"
+  - category: "Full-time Student"
+    price: "35% off"
+    notes: "provide student ID and class schedule"

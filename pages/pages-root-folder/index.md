@@ -9,14 +9,14 @@ header:
   image_fullwidth: headers/gym_h2.jpg
 
 widget1:
-  title: "Work out of the Day"
+  title: "Workout of the Day"
   url: "#wod"   #'/blog/'
   image: showcase/whats_crossfit.jpg
-  text: 'Anticipating the unknown? <br>Check to see if today''s wod out now...'
+  text: 'Anticipating the unknown? <br/>Checkout today''s WOD now...'
 widget2:
   title: "The Open is coming."
   url: '/schedule/'
-  text: 'Are you prepared?<br><br>Train now.'
+  text: 'Are you prepared?<br/><br/>Train now.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/skUxFsTzZ4Q/sddefault.jpg" width="302" height="200" alt=""/></a>'
   # widget2's video call the video script below
   # How to get YouTube thumbnails: https://gist.github.com/protrolium/8831763

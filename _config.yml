@@ -36,13 +36,17 @@ baseurl: ''
 improve_content: https://github.com/ohjho/asphodel2018/edit/gh-pages
 
 # This is the email for the contact page
-contact_email: 'jho.sfu@gmail.com'
+contact_email: 'info@crossfitasphodel.com'
 
 # For Google Map
 # if frontpage_map_link not given, we display the google map result of searching the address
 address: '22 Praya Street, Kennedy Town, Hong Kong'
 gmap_api_key: 'AIzaSyBt_v7udLInJ1bujWHgDvpNCXeABS_BDsw'
 frontpage_map_link: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.9508843212973!2d114.13146232100102!3d22.28543075281428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404010cafabaf53%3A0xacf344de533af41a!2sReebok+CrossFit+Asphodel!5e0!3m2!1sen!2sus!4v1516245780161"
+
+# For MindBody
+mindbody_site_id: 15875
+mindbody_mb_site_id: 491393
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.

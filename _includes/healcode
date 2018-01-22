@@ -1,0 +1,18 @@
+{% comment %}
+*
+*   This include lets you easily display a mindbody buy now link.
+*
+*   usage: {% include healcode s_id='12345' text="buy now" %}
+*
+*   make sure mindbody_site_id and mindbody_mb_site_id are defined in _config.yml
+*
+{% endcomment %}
+
+<healcode-widget data-version="0.2"
+    data-link-class="healcode-pricing-option-text-link"
+    data-site-id="{{site.mindbody_site_id}}"
+    data-mb-site-id="{{site.mindbody_mb_site_id}}"
+    data-type="pricing-link"
+    data-inner-html="{{ include.text }}"
+    data-service-id="{{ include.s_id }}">
+</healcode-widget>

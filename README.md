@@ -21,7 +21,10 @@
 - [X] Contact page
 - [X] Keep Moving page
 - [X] CF Kids and CF Journal icon in the footer
-- [ ] add admin links: old site, log issues
+- [X] add admin links: old site, log issues
+- [ ] improve content:
+  - [X] Frontpage: add notice about beta version and update about pages
+  - [ ] [responsive table][10] for /info/ page
 - [ ] gmap header for contact page
 
 ## Next release:
@@ -81,4 +84,4 @@ And what license is this project released under? [This one][2].
 [7]: https://github.com/stylight/python-wordpress-json
 [8]: https://github.com/htmfilho/jekyllfly
 [9]: https://snazzymaps.com/explore?text=&sort=&tag=dark&color=red
-[10]: #
+[10]: https://zurb.com/playground/responsive-tables
