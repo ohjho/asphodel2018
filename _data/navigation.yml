@@ -31,7 +31,7 @@
   dropdown:
   - title: "What is Crossfit"
     url: "/pages/what-is-crossfit"
-  - title: "Packages/ Pricing"
+  - title: "Packages / Pricing"
     url: "/info"
   - title: "Coaches"
     url: "/pages/coaches"

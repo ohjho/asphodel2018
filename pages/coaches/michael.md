@@ -39,7 +39,7 @@ long!" This is the oath of a Viking.
 Performance enhancement (PES)
 * CrossFit Trainer Level 2
 * CrossFit Kids Trainer
- CrossFit Rowing Trainer
+* CrossFit Rowing Trainer
 * CrossFit Strongman Trainer
 * CrossFit Olympic Weightlifting Certification
 * CrossFit Basic Barbell Certification

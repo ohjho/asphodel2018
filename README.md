@@ -9,7 +9,7 @@
 - [X] WOD: import workouts; used [python-wordpress-json][7] and [jekyllfly][8]
   - [ ] setup cron job to publish WODs daily at midnight
 - [X] Clean up frontpage - add google map
-  - [ ] style map from [Snazzy Maps][9]
+  - [ ] style map from [Snazzy Maps][9], Sin City
 - [ ] social media icons topbar
 - [ ] add mindbody links: sign in, cart, buy now
 - [ ] Create Panerai color scheme
@@ -23,6 +23,22 @@
 - [X] CF Kids and CF Journal icon in the footer
 - [X] add admin links: old site, log issues
 - [ ] improve content:
+  - [ ] background on safari
+  - [ ] logo on frontpage header
+  - [ ] showcase 3 same size
+  - [ ] background for div on frontpage (80%ish transparency)
+  - [ ] topbar 80% transparency
+  - [ ] coaches page: teaser smaller font
+  - [ ] coaches page: picture with link
+  - [ ] make what is crossfit page consistent
+    - [ ] update what is crossfit quote
+  - [ ] header font, space it out
+  - [ ] header images, cut pixels from top
+  - [ ] showcase 2: make event and community page
+  - [ ] move the Calltoaction to the bottom
+  - [ ] footer:
+    - [ ] make font black
+    - [ ] remove shadow on footer
   - [X] Frontpage: add notice about beta version and update about pages
   - [ ] [responsive table][10] for /info/ page
 - [ ] gmap header for contact page
@@ -30,7 +46,7 @@
 ## Next release:
 - [ ] update contact form email address when ready for launch
 - [ ] style header image caption
-- [ ] instagram blog post header image
+- [ ] instagram blog post header image (same size as coaches' big picture)
 - [ ] SEO
 - [ ] Rotating header images
 - [ ] Frontpage widget1 to get workout of the day automatically
