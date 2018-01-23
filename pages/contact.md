@@ -6,13 +6,14 @@ teaser: ""
 header: no
 permalink: "/contact/"
 ---
-The box's address: [ Shop 11, {{site.address}}][1]
+The box's address:  
+[ Shop 11, {{site.address}}][1]
 
-Nearest MTR- HKU Station **_Exit C2_**
+Nearest MTR- **HKU Station _Exit C2_**
 
 You can also call **_(+852) 3568-7719_**
 
-Email us [{{site.contact_email}}](mailto:site.contact_email) or use the contact form below...
+Email us at [{{site.contact_email}}](mailto:site.contact_email) or use the contact form below:
 
 <div class="row">
 

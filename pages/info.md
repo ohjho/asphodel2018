@@ -24,10 +24,12 @@ header:
   {% for item in section.table %}
     <tr>
       <td>
-        {% if item.notes %} {% assign div_count = div_count | plus: 1 %}
-        <a data-options="align:left" data-dropdown="drop-{{div_count}}" aria-controls="drop-{{div_count}}" aria-expanded="false">{% endif %}
         {{item.category}}
-        {% if item.notes %}</a>
+
+        {% if item.notes %} {% assign div_count = div_count | plus: 1 %}
+        <a data-options="align:left" data-dropdown="drop-{{div_count}}" aria-controls="drop-{{div_count}}" aria-expanded="false">
+         <i class="fa fa-info-circle"></i>
+        </a>
         <div id="drop-{{div_count}}" data-dropdown-content class="f-dropdown content medium" aria-hidden="true">
           <p>{{item.notes}}</p>
         </div><!-- dropdown-note -->
@@ -37,7 +39,7 @@ header:
       {% if section.show_mindbody %}
         {% if item.service_id %}
           {% capture serviceid %}{{item.service_id}}{% endcapture %}
-      <td> {% include healcode text='Add to Cart' s_id=serviceid  %}</td>
+      <td> {% include healcode text='Purchase' s_id=serviceid  %}</td>
         {% else %}
       <td> Ask Us </td>
         {% endif %}
