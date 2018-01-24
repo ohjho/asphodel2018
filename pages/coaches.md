@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Coaches"
 subheadline: "about our coaching staff"
-teaser: "It is also interesting to notice that the health professional maintains your health with drugs and surgery, each with potentially undesirable side effects, whereas the CrossFit trainer typically achieves a superior result always with “side beneft” versus side effect."
+teaser: "<p>It is also interesting to notice that the health professional maintains your health with drugs and surgery, each with potentially undesirable side effects, whereas the CrossFit trainer typically achieves a superior result always with “side beneft” versus side effect.</p>"
 header: no
 ---
 
@@ -24,7 +24,9 @@ header: no
     {% endif %}
 
   <div class="medium-6 columns">
+    {% if coach.link %}<a href="{{coach.link}}">{% endif %}
     <img src="{{site.urlimg}}{{coach.img_url}}" alt="{{coach.name}} profile picture">
+    {% if coach.link %}</a>{% endif %}
     <h5>{% if coach.link %}<a href="{{coach.link}}">{% endif %}
         {{coach.name}}
         {% if coach.link %}</a>{% endif %}
