@@ -9,6 +9,9 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
+<!--
+      replacing "About this Site" with Social Media icons
+
             <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
 
             <p class="shadow-black">
@@ -16,8 +19,16 @@
               <br>
               <a href="{{ site.url }}{{ site.baseurl }}/getting-started/">{{ site.data.language.more }}</a>
             </p>
-          </div><!-- /.large-6.columns -->
 
+-->
+            <h5>Connect with us:</h5>
+            <br>
+            <ul class="inline-list social-icons">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+            </ul>
+          </div><!-- /.large-6.columns -->
 
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             {% for service_item in site.data.services %}
@@ -56,6 +67,8 @@
                 </li>
             {% endfor %}
             </ul>
+
+              Box's Address
 -->
             <h5 class="shadow-black">{{site.data.language.address_title}}</h5>
             <p class="shadow-black">
@@ -84,7 +97,7 @@
 -->
 
 <!--
-Footer Icons. I just looked at https://foundation.zurb.com/sites/docs/v/5.5.3/components/icon-bar.html
+            Footer Icons. I just looked at https://foundation.zurb.com/sites/docs/v/5.5.3/components/icon-bar.html
 -->
             <!--<ul class="inline-list icon-bar two-up">-->
             <ul class="inline-list">
