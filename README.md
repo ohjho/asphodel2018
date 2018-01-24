@@ -39,6 +39,7 @@
   - [ ] footer:
     - [ ] make font black
     - [ ] remove shadow on footer
+  - [ ] add social media on frontpage
   - [X] Frontpage: add notice about beta version and update about pages
   - [ ] [responsive table][10] for /info/ page
 - [ ] gmap header for contact page

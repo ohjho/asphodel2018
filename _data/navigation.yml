@@ -26,9 +26,10 @@
 #
 
 - title: "Getting Started"
-  url: "/getting-started"
   side: right
   dropdown:
+  - title: "About Us"
+    url: "/getting-started"
   - title: "What is Crossfit"
     url: "/pages/what-is-crossfit"
   - title: "Packages / Pricing"
@@ -39,9 +40,10 @@
   #   url: "https://crossfitasphodel.com/drop-ins"
 
 - title: "W.O.D."
-  url: "#wod"   #"/blog/"
   side: right
   dropdown:
+    - title: "WOD"
+      url: "#wod"
     - title: "past WODs"
       url: "/blog"
   # - title: "Blog Archive"
