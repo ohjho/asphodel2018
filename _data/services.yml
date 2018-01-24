@@ -20,6 +20,6 @@
   url: "http://crossfitasphodel.com"
   title: "link to the old CrossfitAsphodel.com"
 
-- name: "Log an issue"
-  url: "https://github.com/ohjho/asphodel2018/issues/new"
-  title: "Found a bug with the site? Report it!"
+# - name: "Log an issue"
+#   url: "https://github.com/ohjho/asphodel2018/issues/new"
+#   title: "Found a bug with the site? Report it!"
