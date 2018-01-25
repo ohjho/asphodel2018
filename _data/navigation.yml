@@ -26,6 +26,7 @@
 #
 
 - title: "Getting Started"
+  url: "/getting-started"
   side: right
   dropdown:
   - title: "About Us"
@@ -40,12 +41,13 @@
   #   url: "https://crossfitasphodel.com/drop-ins"
 
 - title: "W.O.D."
+  url: "#wod"
   side: right
   dropdown:
     - title: "WOD"
       url: "#wod"
     - title: "past WODs"
-      url: "/blog"
+      url: "/blog/archive/"
   # - title: "Blog Archive"
   #   url: "/blog/archive/"
 
