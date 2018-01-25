@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: headers/gym_h2.jpg
+  image_fullwidth: headers/hdr_gym_h2.jpg
   show_icon: false
 
 widget1:
@@ -18,7 +18,7 @@ widget2:
   title: "Events and Community"
   url: "#"
   image: showcase/thm_event+community.jpg
-  text: "The magic is in the movement, the art is in the programming, the science is in the explanation, but it is the COMMUNITY where the fun is at!"
+  text: "The magic is in the movement, the art is in the programming, the science is in the explanation, but it is the <b>community</b> where the fun is at!"
 ################################################################################
 #   Example of a Video Widget
 #widget2:

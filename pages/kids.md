@@ -5,7 +5,7 @@ title: "Kids"
 subheadline: "forging the future of fitness"
 teaser: "CrossFit Asphodel is Hong Kong’s FIRST authorized CrossFit Kids and CrossFit Teens program."
 header:
-   image_fullwidth: "headers/kids3.jpg"
+   image_fullwidth: "headers/hdr_kids3.jpg"
    caption: "image of kids doing crossfit"
 ---
 

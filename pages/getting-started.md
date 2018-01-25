@@ -5,7 +5,7 @@ title: "About us"
 subheadline: "who are we?"
 teaser: "A bit about Crossfit Asphodel, Hong Kong's original crossfit gym"
 header:
-   image_fullwidth: "headers/gettingstarted1.jpg"
+   image_fullwidth: "headers/hdr_getting_started.jpg"
    caption: "the quest for max reps starts with just one!"
 permalink: "/getting-started/"
 ---
