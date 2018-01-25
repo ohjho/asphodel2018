@@ -7,23 +7,33 @@
 layout: frontpage
 header:
   image_fullwidth: headers/gym_h2.jpg
+  show_icon: false
 
 widget1:
   title: "Workout of the Day"
   url: "#wod"   #'/blog/'
-  image: showcase/whats_crossfit.jpg
+  image: showcase/thm_wod.jpg
   text: 'Anticipating the unknown? <br/>Checkout today''s WOD now...'
 widget2:
-  title: "The Open is coming."
-  url: '/schedule/'
-  text: 'Are you prepared?<br/><br/>Train now.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/skUxFsTzZ4Q/sddefault.jpg" width="302" height="200" alt=""/></a>'
+  title: "Events and Community"
+  url: "#"
+  image: showcase/thm_event+community.jpg
+  text: "The magic is in the movement, the art is in the programming, the science is in the explanation, but it is the COMMUNITY where the fun is at!"
+################################################################################
+#   Example of a Video Widget
+#widget2:
+#  title: "The Open is coming."
+#  url: '/schedule/'
+#  text: 'Are you prepared?<br/><br/>Train now.'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/skUxFsTzZ4Q/sddefault.jpg" width="302" height="200" alt=""/></a>'
   # widget2's video call the video script below
   # How to get YouTube thumbnails: https://gist.github.com/protrolium/8831763
+################################################################################
+
 widget3:
   title: "Join Us"
   url: '/info/'
-  image: showcase/wod1.jpg
+  image: showcase/thm_join_us.jpg
   text: '"Be impressed by intensity, not volume." <cite>Coach Glassman</cite>'
 #
 # Use the call for action to show a button on the frontpage

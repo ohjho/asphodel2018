@@ -3,7 +3,7 @@
 - name: Ashley Booth
   display: true
   title: "Head Coach (CF-L3), Co-Founder"
-  img_url: coaches/profile_ash.jpg
+  img_url: coaches/thm_ash.jpg
   link: ash
   cert: "BSc (Hons) Sports Science, NASM Certified Personal Trainer, Irish Strength Institute Mentorship Program, Certified CrossFit Level 3 Trainer (CCFT) – Hong Kong’s first and only L3, Certified POSE Running Coach, CrossFit Certified Gymnastics Trainer, IKFF Level 1 Certified Kettlebell Teacher, IKSFA Level 1 Sport Coach, WMC Certified Muay Thai Instructor, Traditional Thai Massage Practitioner, CPR and AED Certified, CrossFit Games 2012 Asia Regional Individual Competitor, CrossFit Games 2013 Asia Regional Individual Competitor, CrossFit Games 2014 Asia Regional Team Competitor"
   bio: "My philosophy as a trainer is to develop great focus and patience in learning the fundamental movements in the beginning. I feel safety and comfort is crucial at first in order to develop the confidence to move on to bigger and better things. I want to create the muscle memory that is needed in highly coordinated movements so that one feels comfortable performing them in the more intense workouts that I will give once I feel an individual is ready. I think many people aren’t as in touch with their bodies as they think they are and by breaking down the highly dynamic movements and repeating them consistently one learns how to control their body’s motor recruitment patterns. As my clients adapt to these challenging movements both physically and mentally, their workout programs begin to grow in complexity and intensity. As this begins to happen, clients naturally begin to start setting greater goals for themselves and it is my job to help them reach their goals. In turn, their strength in character grows and they want to achieve much more than they ever thought they could accomplish."
@@ -11,7 +11,7 @@
 - name: Cris O'Brien
   display: true
   title: "Owner, Coach (CF-L2)"
-  img_url: coaches/profile_cris.jpg
+  img_url: coaches/thm_cris.jpg
   link: cris
   cert: "CrossFit Level 2 Trainer, CrossFit Strongman, Gymnastics, Endurance, Weightlifting, and Mobility, CrossFit Kids Trainer, ISSA Senior Fitness Certified Trainer, USAW Sports Performance Coach, OSHA Ergonomics Certificate Holder, CPR and AED Certified, First Aid Certified, Basic Life Support Certificate, Wim Hof Method Course Completion, Sports Injury and Medical Awareness Course Completion, CrossFit Regionals Team Competitor 2014, Asia Championships 2015, Sin City 2013 and 2014"
   bio: "I’m a CrossFitter and have watched this sport and fitness activity grow from something the strange people did in their garages to one of world fame aired on ESPN.  Although I’m competitive by nature, it’s really the people who have become my best friends that drive me to this sport (including my wife).  <b>Anyone can do CrossFit, regardless of your skill level, injury, whatever.  It’s the most universally scalable workout program on the planet.</b>"
@@ -19,7 +19,7 @@
 - name: Vanessa Cheung
   display: true
   title: Owner, Crossfit Kids Director
-  img_url: coaches/profile_vani.jpg
+  img_url: coaches/thm_vani.jpg
   link: vanni
   cert: "CrossFit Level 1 Trainer, CrossFit Kids Trainer, CrossFit Endurance and Mobility"
   bio: "Vanessa moved back to Hong Kong in 2010, and it was not until the fall of 2013 that she got exposed to CrossFit. Thanks to job changes from practicing landscape architecture to working in real estate property development. Since then, the words 'health' and 'fitness' took on a completely new and inspiring definition which changed her life.
@@ -31,7 +31,7 @@
 - name: Victoria Campos
   display: true
   title: "Coach (CF-L2)"
-  img_url: coaches/profile_vicky.jpg
+  img_url: coaches/thm_vicky.jpg
   link: vicky
   cert: "CrossFit Level 2 Trainer, CrossFit Weightlifting Certification, CrossFit Competitor’s Certification, CrossFit Pacific Regional 2016 Individual Competitor (23rd overall), CrossFit Pacific Regional 2015 Individual Competitor (28th overall), First Place China Championships 2016, Second Place Asia Championships 2015, Top 10 in Hawaii in U.S.A NorCal Region for CF Open 2017 (9th overall), Fittest Woman in China and fifth in Asia Region for the CF Open 201, Fittest Woman in Hong Kong and eighth in Asia Region for the CF Open 2015"
   bio: "Victoria is the only female coach at CrossFit Asphodel and an accomplished CrossFit Regionals athlete. She masterfully balances the passions of coaching and training, and she finds great reward in seeing athletes of all levels excel in the Sport of Fitness. Victoria draws from experience in New Zealand, Hong Kong, China and Hawaii to offer diversity in warm-up drills, scaling options, programming, personal training, nutritional advice and more. With a head coaching background at two affiliates, she is a credible instructor, who promotes solid technique before load and speed. After all, competition has taught Victoria that efficiency in movement is rooted in virtuosity: doing the common uncommonly well.
@@ -40,7 +40,7 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
 - name: Michael Holmgaard
   display: true
   title: "Coach (CF-L2)"
-  img_url: coaches/profile_michael.jpg
+  img_url: coaches/thm_michael.jpg
   link: michael
   cert: "CF L2"
   bio: "Michael's awesome"
@@ -48,7 +48,7 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
 - name: Taylor Rank
   display: true
   title: "Coach (CF-L2)"
-  img_url: coaches/profile_trank.jpg
+  img_url: coaches/thm_trank.png
   link: trank
   cert: "CF L2"
   bio: "T-Rank is back. <br> Back for <b>more</b>"
@@ -56,7 +56,7 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
 - name: John Ho
   display: true
   title: "Coach (CF-L2) + Residence Yogi"
-  img_url: coaches/profile_jho.jpg
+  img_url: coaches/thm_jho.jpg
   link: jho
   cert: "Crossfit Level 2 Trainer, Crossfit Gymnastics Certified, 200+ Hrs Yoga Teacher Training"
   bio: "John started Crossfitting with Reebok CrossFit Asphodel in 2012. And it has been his passion since. He believes in infusing fun and element of play into any form of rigorous physical training. He also believes that training for the body is training for the mind. Workout should be hard, yet body and mind should stay soft and flexible; always open to new challenges, training methodologies, and physical adaptations. Movements should link with breaths, as breaths are always intricately linked with the mind; and a balance can always be found somewhere between effort and ease. These are the principles that he always strive to share in his coaching and on the mat as a Yoga teacher."
@@ -64,7 +64,7 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
 - name: Aubrey Edwards
   display: true
   title: Gym Manager
-  img_url: coaches/profile_aubrey.jpg
+  img_url: coaches/thm_aubrey.jpg
   link: aubrey
   cert: "CF L1"
   bio: "Aubrey is awesome"
