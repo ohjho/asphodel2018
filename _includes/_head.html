@@ -104,8 +104,8 @@
 	{% endunless %}
 
 	<!-- Background Image -->
-	{% comment %}
 	{% unless site.bgimg == NULL %}
+	<!--
 	<style>
 		body{
 			background:url({{site.bgimg}}) no-repeat center center fixed;
@@ -117,8 +117,7 @@
 			z-index: 0;
 		}
 	</style>
-	{% endunless %}
-	{% endcomment %}
+	-->
 
 	<style>
 		body {
@@ -133,3 +132,10 @@
 		    z-index: 0;
 		}
 	</style>
+	{% endunless %}
+
+	{% comment %}
+	<script>
+		$.backstretch({{site.bgimg}});
+	</script>
+	{% endcomment %}
