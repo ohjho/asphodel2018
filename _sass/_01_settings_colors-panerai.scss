@@ -87,6 +87,8 @@ td a{
 // also see side-nav in _04_settings_global.scss L1142
 $blockquote-font-color: $text-color; //---> see _06_typography.scss L244
 
+// Problem with bg scroll on iOS
+// ref: https://stackoverflow.com/questions/26372127/background-fixed-no-repeat-not-working-on-mobile
 @media (max-width: 767px) {
   body {
     background-attachment: initial;
