@@ -16,7 +16,7 @@ widget1:
   text: 'Anticipating the unknown? <br/>Checkout today''s WOD now...'
 widget2:
   title: "Events and Community"
-  url: "#"
+  url: "/blog/events_community/"
   image: showcase/thm_event+community.jpg
   text: "The magic is in the movement, the art is in the programming, the science is in the explanation, but it is the <b>community</b> where the fun is at!"
 ################################################################################

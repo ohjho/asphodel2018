@@ -1,0 +1,10 @@
+{% comment %}
+*
+*   This include lets you easily display a Youtube video.
+*
+*   See this link for reference: http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
+*
+{% endcomment %}
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
