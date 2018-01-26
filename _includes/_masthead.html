@@ -53,8 +53,9 @@
 		<div class="small-12 columns">
 
 			{% if page.header.show_icon %}
-			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.headerlogo }}" alt="{{ site.title }} – {{ site.slogan }}">
+			<a class="show-for-medium-up" id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.headerlogo }}"
+							alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
 			{% endif %}
 

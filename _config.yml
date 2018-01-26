@@ -74,7 +74,7 @@ display_social: false
 logo: "logo_white_100.png"
 
 # Logo shown in header when there's no header image. Size is 600x 80
-headerlogo: "logo_white_big.png"  #"logo_white_x80.png"
+headerlogo: "logo_black_big.png"  #"logo_white_x80.png"
 
 # background image, will use solid color if not given
 bgimg: 'https://ohjho.github.io/asphodel2018/images/bg-concrete.jpg'
