@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Coaches"
 subheadline: "about our coaching staff"
-teaser: "<p>It is also interesting to notice that the health professional maintains your health with drugs and surgery, each with potentially undesirable side effects, whereas the CrossFit trainer typically achieves a superior result always with “side beneft” versus side effect.</p>"
+teaser: #"<p>It is also interesting to notice that the health professional maintains your health with drugs and surgery, each with potentially undesirable side effects, whereas the CrossFit trainer typically achieves a superior result always with “side beneft” versus side effect.</p>"
 header: no
 ---
 

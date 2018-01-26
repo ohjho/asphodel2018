@@ -6,7 +6,7 @@ subheadline: "Coach (CF-L2)"
 teaser: ""
 header: no
 image:
-  title: "coaches/temp_trank.jpg"
+  title: "coaches/profile_trank.jpg"
   caption: ""
   caption_url: ""
 ---
