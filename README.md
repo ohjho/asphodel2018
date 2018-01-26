@@ -25,21 +25,21 @@
 - [ ] improve content:
   - [ ] background on safari
   - [ ] logo on frontpage header
-  - [ ] showcase 3 same size
+  - [X] showcase 3 same size
   - [ ] background for div on frontpage (80%ish transparency)
   - [ ] topbar 80% transparency
-  - [ ] coaches page: teaser smaller font
-  - [ ] coaches page: picture with link
-  - [ ] make what is crossfit page consistent
-    - [ ] update what is crossfit quote
+  - [X] coaches page: teaser smaller font
+  - [X] coaches page: picture with link
+  - [X] make what is crossfit page consistent
+    - [X] update what is crossfit quote
   - [ ] header font, space it out
-  - [ ] header images, cut pixels from top
-  - [ ] showcase 2: make event and community page
-  - [ ] move the Calltoaction to the bottom
+  - [X] header images, cut pixels from top
+  - [X] showcase 2: make event and community page
+  - [X] move the Calltoaction to the bottom
   - [ ] footer:
     - [ ] make font black
-    - [ ] remove shadow on footer
-  - [ ] add social media on frontpage
+    - [X] remove shadow on footer
+  - [X] add social media on frontpage
   - [X] Frontpage: add notice about beta version and update about pages
   - [ ] [responsive table][10] for /info/ page
 - [ ] gmap header for contact page

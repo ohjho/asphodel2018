@@ -31,7 +31,6 @@ By [Coach Glassman][1], founder and CEO of CrossFit.
 >
 >In gyms and health clubs throughout the world the typical workout consists of isolation movements and extended aerobic sessions. The ftness community from trainers to the magazines has the exercising public believing that lateral raises, curls, leg extensions, sit-ups and the like combined with 20- to 40-minute stints on the stationary bike or treadmill are going to lead to some kind of great ftness. Well, at CrossFit we work exclusively with com-pound movements and shorter high-intensity cardiovascular sessions. We have replaced the lateral raise with the push press, the curl with the pull-up, and the leg extension with the squat. For every long-distance efort our athletes will do fve or six at short distance. Why? Because functional movements and high intensity are radically more efective at eliciting nearly any desired ftness result. Startlingly, this is not a matter of opinion but solid, irrefut-able scientifc fact, and yet the marginally efective old ways persist and are nearly universal. Our approach is consistent with what is practiced in elite training programs associated with major university athletic teams and professional sports. CrossFit endeavors to bring state-of-the-art coaching techniques to the general public and athlete.
 
-
 Source: [ Crossfit.com  »  What is Crossfit«](https://www.crossfit.com/what-is-crossfit)
 
 [1]: https://twitter.com/crossfitceo?lang=en
