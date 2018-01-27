@@ -19,7 +19,7 @@ slogan: "WOD in progress"
 description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
 
 # The credits show up in the includes/_footer.html
-credits: '<p>Created with &hearts; by <a href="/pages/coaches/jho">JHO</a> and dedicated to all the great Coaches who had shined light on those places beyond the last rep.'
+credits: '<p>Created with &hearts; by <a href="/pages/coaches/jho">JHO</a> and dedicated to all the Coaches who had shined light on those places beyond the last rep.'
   #'<br><p>Created with &hearts; by <a href="http://johnho.ca/">JHO</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
@@ -37,6 +37,7 @@ improve_content: https://github.com/ohjho/asphodel2018/edit/gh-pages
 
 # This is the email for the contact page
 contact_email: 'info@crossfitasphodel.com'
+contact_phone: '(+852) 3568-7719'
 
 # For Google Map
 # if frontpage_map_link not given, we display the google map result of searching the address
