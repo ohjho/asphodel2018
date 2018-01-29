@@ -6,8 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: headers/hdr_gym_h2.jpg
-  show_icon: true
+  image_fullwidth: headers/hdr_gym_h2_logo.jpg
+  show_icon: false
 
 widget1:
   title: "Workout of the Day"
