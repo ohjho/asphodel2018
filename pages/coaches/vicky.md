@@ -24,5 +24,5 @@ Originally from Brazil, Victoria started CrossFitting in 2013 while living in Ne
 * First Place China Championships 2016
 * Second Place Asia Championships 2015
 * Top 10 in Hawaii in U.S.A NorCal Region for CF Open 2017 (9th overall)
-* Fittest Woman in China and fifth in Asia Region for the CF Open 201
+* Fittest Woman in China and fifth in Asia Region for the CF Open 2016
 * Fittest Woman in Hong Kong and eighth in Asia Region for the CF Open 2015
