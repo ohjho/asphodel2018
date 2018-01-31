@@ -98,7 +98,7 @@ timezone: "Asia/Hong_Kong"
 # show future dated posts?
 #  but be careful, future posts might not automatically render after the date is reached
 #  see here: https://github.com/jekyll/jekyll/issues/6536
-future: false
+future: true
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
