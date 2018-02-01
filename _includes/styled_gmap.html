@@ -131,6 +131,15 @@
               anchor: new google.maps.Point(35, 30),
             },
         });
+        marker.addListener('click', toggleBounce);
+    }
+    // Marker animation:
+    function toggleBounce() {
+      if (marker.getAnimation() !== null) {
+        marker.setAnimation(null);
+      } else {
+        marker.setAnimation(google.maps.Animation.BOUNCE);
+      }
     }
 </script>
 <div id="styled_gmap"></div>
