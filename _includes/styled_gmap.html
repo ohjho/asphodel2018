@@ -30,14 +30,11 @@
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_API_KEY"></script>
 -->
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{site.gmap_api_key}}"></script>
-
-<!-- Make sure Google Map is loaded -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?callback=CustomGoogleMaps"></script>
-
 <script type="text/javascript">
     // When the window has finished loading create our google map below
     google.maps.event.addDomListener(window, 'load', init);
 
+    var marker;
     function init() {
         // Basic options for a simple Google Map
         // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
@@ -112,7 +109,7 @@
         var map = new google.maps.Map(mapElement, mapOptions);
 
         // Let's also add a marker while we're at it
-        var marker = new google.maps.Marker({
+        marker = new google.maps.Marker({
             position: myLatLng,
             map: map,
             //title: 'Snazzy!'
