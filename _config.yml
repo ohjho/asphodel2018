@@ -44,6 +44,7 @@ contact_phone: '(+852) 3568-7719'
 # if frontpage_map_link not given, we display the google map result of searching the address
 address: '22 Praya, Kennedy Town, Hong Kong'
 gmap_api_key: 'AIzaSyBt_v7udLInJ1bujWHgDvpNCXeABS_BDsw'
+gmap_js_api_key: 'AIzaSyCouco9FAPMgVASdvuIGOv30iUu_OFngRc'
 frontpage_map_link: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.9508843212973!2d114.13146232100102!3d22.28543075281428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404010cafabaf53%3A0xacf344de533af41a!2sReebok+CrossFit+Asphodel!5e0!3m2!1sen!2sus!4v1516245780161"
 
 # For MindBody
