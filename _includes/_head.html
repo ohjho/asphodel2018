@@ -103,9 +103,15 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-	<!-- Background Image -->
+	<!-- Background Image
+				setting bg img via CSS has undesired effects on mobile view
+				see here: https://stackoverflow.com/questions/13095808/background-image-not-resizing-on-iphone
+
+				this is set in _footer_scripts.html now
+	-->
 	{% unless site.bgimg == NULL %}
 	<!--
+	{% comment %}
 	<style>
 		body{
 			background:url({{site.bgimg}}) no-repeat center center fixed;
@@ -117,8 +123,7 @@
 			z-index: 0;
 		}
 	</style>
-	-->
-	{% comment %}
+
 	<style>
 		body {
 		    background-image: url({{site.bgimg}});
@@ -133,10 +138,5 @@
 		}
 	</style>
 	{% endcomment %}
+-->
 	{% endunless %}
-
-	{% comment %}
-	<script>
-		$.backstretch({{site.bgimg}});
-	</script>
-	{% endcomment %}

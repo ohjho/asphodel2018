@@ -15,9 +15,11 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+{% if site.bgimg %}
 <script>
   $.backstretch("{{site.bgimg}}");
 </script>
+{% endif %}
 
 
 {% if site.google_analytics_tracking_id  and jekyll.environment == 'production' %}
