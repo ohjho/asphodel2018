@@ -8,6 +8,7 @@ header:
     image_fullwidth: "headers/hdr_packages1.jpg"
     caption: ""
 ---
+{% include alert text="**Note:** All payments must be settled prior to joining classes." %}
 
 {% assign div_count = 0 %}
 {% for section in site.data.packages %}
@@ -48,7 +49,6 @@ header:
   {% endfor %}
   </tbody>
 </table>
+{%if section.note %}{% include alert warning= section.note %}{% endif %}
+
 {% endfor %}
-
-
-### All payments must be settled prior to joining classes.
