@@ -53,15 +53,12 @@
     service_id:
 
 - name: "New to Asphodel?"
-  show_mindbody: true
+  description: 'please <a href="/contact/">email us</a> to setup the following options'
+  show_mindbody: false
   table:
-  - category: "Trial Week"
-    price: "500 HKD"
-    notes: "Try 5 Crossfit Classes on your trial week"
-    service_id: 10296
   - category: "Beginners OnRamp"
-    price: "500 HKD"
-    notes: "3 intro sessions tailored for beginners"
+    price: "1,500 HKD"
+    notes: "5 appointment-style program, one-on-one with our most experienced coaches."
     service_id: 10307
 
 - name: "Discounts"
@@ -70,7 +67,7 @@
   table:
   - category: "Teacher/ Fire/ Police/ Medical First Responder"
     price: "20% off"
-    notes: "provide valid ID"
+    notes: "please provide valid ID"
   - category: "Full-time Student"
     price: "35% off"
-    notes: "provide student ID and class schedule"
+    notes: "please provide student ID and class schedule"
