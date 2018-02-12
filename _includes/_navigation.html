@@ -8,7 +8,7 @@
     {% else %}
       {% capture homeurl %}{{site.url}}{{site.baseurl}}{% endcapture %}
     {% endif %}
-	  <a class="show-for-small-only" href="{{ site.url }}{{ site.baseurl }}"> <i class="icon-asphodel"></i>{{ site.title }}</a>
+	  <a class="show-for-small-only" href="{{ homeurl }}"> <i class="icon-asphodel"></i>{{ site.title }}</a>
 	  <a class="logo hide-for-small-only" href="{{ homeurl }}"> <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{site.title}}" /></a>
 	</h1>
       </li>
