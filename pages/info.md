@@ -5,7 +5,7 @@ subheadline: "How does our membership work?"
 teaser: "refer a friend and get one free week" #"you are not only joining a gym, you are joining a family"
 permalink: "/info/"
 header:
-    image_fullwidth: "headers/hdr_packages1.jpg"
+    image_fullwidth: "headers/hdr_packages2.jpg"
     caption: ""
 ---
 {% include alert text="**Note:** All payments must be settled prior to joining classes." %}
