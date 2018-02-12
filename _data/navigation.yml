@@ -2,25 +2,6 @@
 #   Navigation to the left › side: left
 #
 
-# - title: " "
-#   url: "#"
-#   side: left
-#   dropdown:
-#   - title: "What is Crossfit"
-#     url: "https://crossfitasphodel.com/what-is-crossfit"
-#   - title: "Try us out"
-#     url: "https://crossfitasphodel.com/im-ready-to-give-it-a-try"
-#   - title: "Our Packages"
-#     url: "https://crossfitasphodel.com/getting-started"
-#   - title: "Our Team"
-#     url: "https://crossfitasphodel.com/coaches-trainers-and-team"
-#   - title: "Drop-in"
-#     url: "https://crossfitasphodel.com/drop-ins"
-#   - title: "Contact"
-#     url: "https://crossfitasphodel.com/contact-us"
-
-
-
 #
 #   Navigation to the right › side: right
 #
@@ -41,15 +22,13 @@
   #   url: "https://crossfitasphodel.com/drop-ins"
 
 - title: "W.O.D."
-  url: "#wod"
+  url: "/#wod"
   side: right
   dropdown:
     - title: "WOD"
-      url: "#wod"
+      url: "/#wod"
     - title: "past WODs"
       url: "/blog/archive/"
-  # - title: "Blog Archive"
-  #   url: "/blog/archive/"
 
 - title: Schedule
   url: "/schedule"

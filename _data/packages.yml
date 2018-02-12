@@ -42,7 +42,7 @@
 
 - name: "Travelers"
   description: "for non-HK residents only"
-  note: '**Note:** Drop ins for either **_6am_** or **_7am_** must <a href="/contact/"email</a> us ahead of time and that priority is given to existing members.'
+  note: '**Note:** Drop ins for either **_6am_** or **_7am_** must <a href="/contact/">email us</a> ahead of time and that priority is given to existing members.'
   show_mindbody: true
   table:
   - category: "Drop-in"
