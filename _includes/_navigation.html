@@ -3,8 +3,13 @@
     <ul class="title-area">
       <li class="name">
 	<h1>
+    {% if site.url='' and site.baseurl='' %}
+      {% assign homeurl='/' %}
+    {% else %}
+      {% capture homeurl %}{{site.url}}{{site.baseurl}}{% endcapture %}
+    {% endif %}
 	  <a class="show-for-small-only" href="{{ site.url }}{{ site.baseurl }}"> <i class="icon-asphodel"></i>{{ site.title }}</a>
-	  <a class="logo hide-for-small-only" href="{{ site.url }}{{ site.baseurl }}"> <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{site.title}}" /></a>
+	  <a class="logo hide-for-small-only" href="{{ homeurl }}"> <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{site.title}}" /></a>
 	</h1>
       </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
