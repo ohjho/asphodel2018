@@ -27,7 +27,7 @@ Email us at [{{site.contact_email}}](mailto:site.contact_email) or use the conta
 
           <label>Email</label>
           <small class="error">An email address is required.</small>
-          <input type="email" placeholder="username@address.com" name="replyto" required>
+          <input type="email" placeholder="username@address.com" name="email" required>
 
           <label>Your Message</label>
           <small class="error">Your message is required.</small>
