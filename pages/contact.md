@@ -7,7 +7,8 @@ header: no
 permalink: "/contact/"
 ---
 The box's address:  
-[ Shop 11, {{site.address}}][1]
+[ Shop 11, {{site.address}}][1]  
+[堅尼地城海旁22號 南雄大廈11號鋪地下][1]
 
 Nearest MTR- **HKU Station _Exit C2_**
 
