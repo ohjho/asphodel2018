@@ -17,7 +17,7 @@ widget1:
 widget2:
   title: "Events and Community"
   url: "/blog/events_community/"
-  image: showcase/thm_event+community.jpg
+  image: 'headers/hdr_getting_started_0318.jpg' #showcase/thm_event+community.jpg
   text: "The magic is in the movement, the art is in the programming, the science is in the explanation, but it is the <b>community</b> where the fun is at!"
 ################################################################################
 #   Example of a Video Widget

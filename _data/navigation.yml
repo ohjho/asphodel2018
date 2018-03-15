@@ -7,7 +7,7 @@
 #
 
 - title: "Getting Started"
-  url: "/getting-started"
+  url: #"/getting-started"
   side: right
   dropdown:
   - title: "About Us"
@@ -22,7 +22,7 @@
   #   url: "https://crossfitasphodel.com/drop-ins"
 
 - title: "W.O.D."
-  url: "/#wod"
+  url: #"/#wod"
   side: right
   dropdown:
     - title: "WOD"

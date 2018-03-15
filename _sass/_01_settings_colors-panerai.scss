@@ -95,6 +95,11 @@ $blockquote-font-color: $text-color; //---> see _06_typography.scss L244
   }
 }
 
+$color_trans_bg: rgba(25,25,25, 0);
+.trans_bg_container{
+  background-color: $color_trans_bg;
+}
+
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
