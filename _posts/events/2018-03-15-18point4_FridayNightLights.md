@@ -21,4 +21,4 @@ Register [Here][1]
 
 {% include list-posts tag='events' %}
 
-[1]: https://www.facebook.com/events/908413505993002/
+[1]: https://www.facebook.com/events/552187051832068/
