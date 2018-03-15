@@ -3,7 +3,8 @@ layout: page
 title: "Contact Us"
 subheadline: "we are open seven days a week."
 teaser: ""
-header: no
+header:
+  image_fullwidth: "headers/hdr_contact.jpg"
 permalink: "/contact/"
 ---
 The box's address:  
