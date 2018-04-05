@@ -35,7 +35,7 @@ Email us at [{{site.contact_email}}](mailto:site.contact_email) or use the conta
           <small class="error">Your message is required.</small>
           <textarea rows="9" placeholder="Enter your message here" name="message" required></textarea>
 
-          <input type="hidden" name="_next" value="http://beta.crossfitasphodel.com/contact-ty/" />
+          <input type="hidden" name="_next" value="http://crossfitasphodel.com/contact-ty/" />
         <input type="submit" class="nice blue radius button" value="Send Message">
         </form>
     </div><!--end 8 columns-->
