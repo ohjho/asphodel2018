@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Cris O'Brien"
-subheadline: "Owner, Coach (CF-L2)"
+subheadline: "Owner, Coach (CF-L3)"
 teaser: ""
 header: no
 image:
@@ -14,7 +14,7 @@ image:
 I’m a CrossFitter and have watched this sport and fitness method grow from something people did in their garages to one of world fame aired on ESPN. Although I’m competitive by nature, it’s really the people who have become my best friends that drive me to this sport (including my wife). **Anyone can do CrossFit, regardless of your skill level, injury, whatever. It’s the most universally scalable workout program on the planet.**
 
 #### Professional Training
-* CrossFit Level 2 Trainer
+* CrossFit Level 3 Trainer
 * CrossFit Certified Courses:
   * Strongman
   * Gymnastics
