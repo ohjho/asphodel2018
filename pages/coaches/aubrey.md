@@ -1,6 +1,8 @@
 ---
 layout: page
 show_meta: false
+sitemap: false
+published: false
 title: "Aubrey Edwards"
 subheadline: "Gym Manager"
 teaser: ""
