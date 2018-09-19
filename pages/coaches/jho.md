@@ -15,7 +15,8 @@ John started Crossfitting with Reebok CrossFit Asphodel in 2012. And it has been
 
 #### Professional Training
 <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>AntiGravity&reg; Level 1 Instructor </li>
+  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>AntiGravity&reg; Level 2 Instructor </li>
+  <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>AntiGravity&reg; Aerial Yoga I & II </li>
   <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>Crossfit Level 2 Trainer</li>
   <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>Crossfit Gymnastics Certified</li>
   <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>Santosha 200+ Hrs Yoga Teacher Training</li>
@@ -23,9 +24,10 @@ John started Crossfitting with Reebok CrossFit Asphodel in 2012. And it has been
 
 ### Competition
 <ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Crossfit Open: 2016 (11th in HK), 2017 (18th), 2018 (12th)</li>
+  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Asia Championship - Downtown Throwdown: 2016 (16th), 2017 (15th)</li>
+  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>China Championship 2018 - Guangzhou Region: 4th </li>
   <li><span class="fa-li"><i class="fa fa-trophy"></i></span>China Championship 2017: 19th </li>
-  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Asia Championship 2017 - Downtown Throwdown: 15th</li>
-  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Crossfit Open 2017: 18th in Hong Kong</li>
-  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Asia Championship 2016 - Downtown Throwdown: 16th</li>
-  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Crossfit Open 2016: 11th in Hong Kong</li>
+  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>Bangkok Throwdown 2018</li>
+  <li><span class="fa-li"><i class="fa fa-trophy"></i></span>X45 Pandora Box Challenge 2018 (Team)</li>
 </ul>
