@@ -50,6 +50,7 @@
     service_id: 10161
   - category: "6 classes Traveler Pack"
     price: "1,200 HKD"
+    notes: "valid for 2 weeks and available only to people who have completed on-ramp before or at coach's discretion"
     service_id:
 
 - name: "New to Asphodel?"
