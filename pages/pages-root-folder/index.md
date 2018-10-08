@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: headers/hdr_gym_h2_logo.jpg
+  image_fullwidth: headers/hdr_frontpage.jpg
   show_icon: false
 
 widget1:
