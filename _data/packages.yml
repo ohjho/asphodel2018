@@ -10,10 +10,10 @@
   show_mindbody: true
   table:
   - category: "Unlimited"
-    price: "2,700 HKD"
+    price: "2,800 HKD"
     service_id: 10191
   - category: "13 sessions per month"
-    price: "2,000 HKD"
+    price: "2,200 HKD"
     service_id: 10192
   - category: "Family"
     notes: "unlimited for two family members"
@@ -32,11 +32,11 @@
   show_mindbody: true
   table:
   - category: "Air crews"
-    price: "5,400 HKD"
+    price: "6,000 HKD"
     notes: "40 sessions valid for 4 months"
     service_id:
   - category: "8 classes pack"
-    price: "2,000 HKD"
+    price: "2,200 HKD"
     notes: "valid for 2 months and available only to people who have completed on-ramp with Asphodel"
     service_id: 10297
 
@@ -46,7 +46,7 @@
   show_mindbody: true
   table:
   - category: "Drop-in"
-    price: "250 HKD"
+    price: "280 HKD"
     service_id: 10161
   - category: "6 classes Traveler Pack"
     price: "1,200 HKD"
@@ -58,7 +58,7 @@
   show_mindbody: false
   table:
   - category: "Beginners OnRamp"
-    price: "2,000 HKD"
+    price: "2,200 HKD"
     notes: "5 appointment-style program, one-on-one with our most experienced coaches."
     service_id: 10307
 
@@ -72,3 +72,12 @@
   - category: "Full-time Student"
     price: "35% off"
     notes: "please provide student ID and class schedule"
+
+- name: "Personal Training"
+  table:
+    - category: '1-Hour'
+      price: '900 HKD'
+    - category: '10-Hour pack'
+      price: '8,500 HKD'
+    - category: '20-Hour pack'
+      price: '15,000 HKD'
