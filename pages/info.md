@@ -8,7 +8,7 @@ header:
     image_fullwidth: "headers/hdr_packages2.jpg"
     caption: ""
 ---
-{% include alert text="**Note:** All payments must be settled prior to joining classes." %}
+{% include alert text="**Note:** All payments must be settled prior to joining classes.<br>_Pricing updated Nov 25, 2018_" %}
 
 {% assign div_count = 0 %}
 {% for section in site.data.packages %}
